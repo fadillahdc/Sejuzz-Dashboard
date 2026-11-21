@@ -13,7 +13,7 @@ Dibuat dengan Streamlit, Plotly, dan scikit-learn. Bagian dari capstone Sejuzz (
 ## Menjalankan
 
 ```bash
-cd dashboard_buah
+cd Sejuzz-Dashboard
 python3 -m pip install -r requirements.txt
 python3 -m streamlit run app.py
 ```
