@@ -1,0 +1,1801 @@
+sample_id,jenis_buah,bagian
+ALP-001,Alpukat,latih
+ALP-002,Alpukat,latih
+ALP-003,Alpukat,latih
+ALP-004,Alpukat,latih
+ALP-005,Alpukat,latih
+ALP-006,Alpukat,latih
+ALP-007,Alpukat,uji
+ALP-008,Alpukat,latih
+ALP-009,Alpukat,uji
+ALP-010,Alpukat,latih
+ALP-011,Alpukat,latih
+ALP-012,Alpukat,uji
+ALP-013,Alpukat,uji
+ALP-014,Alpukat,uji
+ALP-015,Alpukat,uji
+ALP-016,Alpukat,latih
+ALP-017,Alpukat,latih
+ALP-018,Alpukat,latih
+ALP-019,Alpukat,latih
+ALP-020,Alpukat,uji
+ALP-021,Alpukat,latih
+ALP-022,Alpukat,latih
+ALP-023,Alpukat,uji
+ALP-024,Alpukat,latih
+ALP-025,Alpukat,latih
+ALP-026,Alpukat,latih
+ALP-027,Alpukat,latih
+ALP-028,Alpukat,latih
+ALP-029,Alpukat,latih
+ALP-030,Alpukat,latih
+ALP-031,Alpukat,latih
+ALP-032,Alpukat,latih
+ALP-033,Alpukat,latih
+ALP-034,Alpukat,latih
+ALP-035,Alpukat,latih
+ALP-036,Alpukat,uji
+ALP-037,Alpukat,uji
+ALP-038,Alpukat,latih
+ALP-039,Alpukat,latih
+ALP-040,Alpukat,latih
+ALP-041,Alpukat,latih
+ALP-042,Alpukat,uji
+ALP-043,Alpukat,latih
+ALP-044,Alpukat,latih
+ALP-045,Alpukat,latih
+ALP-046,Alpukat,latih
+ALP-047,Alpukat,latih
+ALP-048,Alpukat,uji
+ALP-049,Alpukat,latih
+ALP-050,Alpukat,uji
+ALP-051,Alpukat,latih
+ALP-052,Alpukat,latih
+ALP-053,Alpukat,latih
+ALP-054,Alpukat,uji
+ALP-055,Alpukat,latih
+ALP-056,Alpukat,latih
+ALP-057,Alpukat,latih
+ALP-058,Alpukat,latih
+ALP-059,Alpukat,latih
+ALP-060,Alpukat,latih
+ALP-061,Alpukat,latih
+ALP-062,Alpukat,latih
+ALP-063,Alpukat,latih
+ALP-064,Alpukat,latih
+ALP-065,Alpukat,uji
+ALP-066,Alpukat,uji
+ALP-067,Alpukat,uji
+ALP-068,Alpukat,latih
+ALP-069,Alpukat,latih
+ALP-070,Alpukat,latih
+ALP-071,Alpukat,latih
+ALP-072,Alpukat,latih
+ALP-073,Alpukat,latih
+ALP-074,Alpukat,latih
+ALP-075,Alpukat,latih
+ALP-076,Alpukat,latih
+ALP-077,Alpukat,latih
+ALP-078,Alpukat,uji
+ALP-079,Alpukat,latih
+ALP-080,Alpukat,latih
+ALP-081,Alpukat,latih
+ALP-082,Alpukat,latih
+ALP-083,Alpukat,latih
+ALP-084,Alpukat,latih
+ALP-085,Alpukat,latih
+ALP-086,Alpukat,uji
+ALP-087,Alpukat,latih
+ALP-088,Alpukat,latih
+ALP-089,Alpukat,latih
+ALP-090,Alpukat,latih
+ALP-091,Alpukat,uji
+ALP-092,Alpukat,latih
+ALP-093,Alpukat,latih
+ALP-094,Alpukat,latih
+ALP-095,Alpukat,latih
+ALP-096,Alpukat,latih
+ALP-097,Alpukat,latih
+ALP-098,Alpukat,latih
+ALP-099,Alpukat,latih
+ALP-100,Alpukat,latih
+BLA-001,Blackberry,latih
+BLA-002,Blackberry,uji
+BLA-003,Blackberry,latih
+BLA-004,Blackberry,latih
+BLA-005,Blackberry,latih
+BLA-006,Blackberry,uji
+BLA-007,Blackberry,latih
+BLA-008,Blackberry,latih
+BLA-009,Blackberry,latih
+BLA-010,Blackberry,latih
+BLA-011,Blackberry,latih
+BLA-012,Blackberry,latih
+BLA-013,Blackberry,latih
+BLA-014,Blackberry,uji
+BLA-015,Blackberry,latih
+BLA-016,Blackberry,latih
+BLA-017,Blackberry,latih
+BLA-018,Blackberry,latih
+BLA-019,Blackberry,latih
+BLA-020,Blackberry,uji
+BLA-021,Blackberry,latih
+BLA-022,Blackberry,latih
+BLA-023,Blackberry,uji
+BLA-024,Blackberry,latih
+BLA-025,Blackberry,latih
+BLA-026,Blackberry,latih
+BLA-027,Blackberry,latih
+BLA-028,Blackberry,latih
+BLA-029,Blackberry,latih
+BLA-030,Blackberry,latih
+BLA-031,Blackberry,latih
+BLA-032,Blackberry,latih
+BLA-033,Blackberry,latih
+BLA-034,Blackberry,latih
+BLA-035,Blackberry,latih
+BLA-036,Blackberry,latih
+BLA-037,Blackberry,latih
+BLA-038,Blackberry,latih
+BLA-039,Blackberry,latih
+BLA-040,Blackberry,latih
+BLA-041,Blackberry,latih
+BLA-042,Blackberry,uji
+BLA-043,Blackberry,latih
+BLA-044,Blackberry,latih
+BLA-045,Blackberry,latih
+BLA-046,Blackberry,latih
+BLA-047,Blackberry,uji
+BLA-048,Blackberry,latih
+BLA-049,Blackberry,latih
+BLA-050,Blackberry,latih
+BLA-051,Blackberry,uji
+BLA-052,Blackberry,uji
+BLA-053,Blackberry,latih
+BLA-054,Blackberry,latih
+BLA-055,Blackberry,latih
+BLA-056,Blackberry,latih
+BLA-057,Blackberry,latih
+BLA-058,Blackberry,latih
+BLA-059,Blackberry,latih
+BLA-060,Blackberry,latih
+BLA-061,Blackberry,uji
+BLA-062,Blackberry,uji
+BLA-063,Blackberry,uji
+BLA-064,Blackberry,uji
+BLA-065,Blackberry,latih
+BLA-066,Blackberry,latih
+BLA-067,Blackberry,latih
+BLA-068,Blackberry,uji
+BLA-069,Blackberry,latih
+BLA-070,Blackberry,latih
+BLA-071,Blackberry,latih
+BLA-072,Blackberry,uji
+BLA-073,Blackberry,latih
+BLA-074,Blackberry,latih
+BLA-075,Blackberry,latih
+BLA-076,Blackberry,latih
+BLA-077,Blackberry,uji
+BLA-078,Blackberry,latih
+BLA-079,Blackberry,latih
+BLA-080,Blackberry,uji
+BLA-081,Blackberry,latih
+BLA-082,Blackberry,uji
+BLA-083,Blackberry,latih
+BLA-084,Blackberry,latih
+BLA-085,Blackberry,latih
+BLA-086,Blackberry,latih
+BLA-087,Blackberry,latih
+BLA-088,Blackberry,latih
+BLA-089,Blackberry,latih
+BLA-090,Blackberry,uji
+BLA-091,Blackberry,latih
+BLA-092,Blackberry,latih
+BLA-093,Blackberry,latih
+BLA-094,Blackberry,latih
+BLA-095,Blackberry,latih
+BLA-096,Blackberry,latih
+BLA-097,Blackberry,latih
+BLA-098,Blackberry,latih
+BLA-099,Blackberry,latih
+BLA-100,Blackberry,uji
+BLU-001,Blueberry,latih
+BLU-002,Blueberry,uji
+BLU-003,Blueberry,latih
+BLU-004,Blueberry,latih
+BLU-005,Blueberry,latih
+BLU-006,Blueberry,latih
+BLU-007,Blueberry,latih
+BLU-008,Blueberry,uji
+BLU-009,Blueberry,uji
+BLU-010,Blueberry,latih
+BLU-011,Blueberry,latih
+BLU-012,Blueberry,latih
+BLU-013,Blueberry,latih
+BLU-014,Blueberry,uji
+BLU-015,Blueberry,latih
+BLU-016,Blueberry,latih
+BLU-017,Blueberry,latih
+BLU-018,Blueberry,latih
+BLU-019,Blueberry,latih
+BLU-020,Blueberry,latih
+BLU-021,Blueberry,uji
+BLU-022,Blueberry,latih
+BLU-023,Blueberry,latih
+BLU-024,Blueberry,uji
+BLU-025,Blueberry,latih
+BLU-026,Blueberry,latih
+BLU-027,Blueberry,latih
+BLU-028,Blueberry,uji
+BLU-029,Blueberry,latih
+BLU-030,Blueberry,latih
+BLU-031,Blueberry,uji
+BLU-032,Blueberry,uji
+BLU-033,Blueberry,uji
+BLU-034,Blueberry,latih
+BLU-035,Blueberry,latih
+BLU-036,Blueberry,latih
+BLU-037,Blueberry,latih
+BLU-038,Blueberry,latih
+BLU-039,Blueberry,latih
+BLU-040,Blueberry,latih
+BLU-041,Blueberry,latih
+BLU-042,Blueberry,latih
+BLU-043,Blueberry,latih
+BLU-044,Blueberry,uji
+BLU-045,Blueberry,latih
+BLU-046,Blueberry,latih
+BLU-047,Blueberry,latih
+BLU-048,Blueberry,uji
+BLU-049,Blueberry,latih
+BLU-050,Blueberry,latih
+BLU-051,Blueberry,latih
+BLU-052,Blueberry,latih
+BLU-053,Blueberry,latih
+BLU-054,Blueberry,uji
+BLU-055,Blueberry,latih
+BLU-056,Blueberry,latih
+BLU-057,Blueberry,latih
+BLU-058,Blueberry,latih
+BLU-059,Blueberry,uji
+BLU-060,Blueberry,latih
+BLU-061,Blueberry,uji
+BLU-062,Blueberry,latih
+BLU-063,Blueberry,latih
+BLU-064,Blueberry,latih
+BLU-065,Blueberry,latih
+BLU-066,Blueberry,latih
+BLU-067,Blueberry,latih
+BLU-068,Blueberry,uji
+BLU-069,Blueberry,latih
+BLU-070,Blueberry,latih
+BLU-071,Blueberry,latih
+BLU-072,Blueberry,latih
+BLU-073,Blueberry,latih
+BLU-074,Blueberry,latih
+BLU-075,Blueberry,latih
+BLU-076,Blueberry,latih
+BLU-077,Blueberry,latih
+BLU-078,Blueberry,latih
+BLU-079,Blueberry,latih
+BLU-080,Blueberry,latih
+BLU-081,Blueberry,uji
+BLU-082,Blueberry,latih
+BLU-083,Blueberry,latih
+BLU-084,Blueberry,latih
+BLU-085,Blueberry,latih
+BLU-086,Blueberry,latih
+BLU-087,Blueberry,uji
+BLU-088,Blueberry,uji
+BLU-089,Blueberry,latih
+BLU-090,Blueberry,latih
+BLU-091,Blueberry,uji
+BLU-092,Blueberry,latih
+BLU-093,Blueberry,latih
+BLU-094,Blueberry,latih
+BLU-095,Blueberry,latih
+BLU-096,Blueberry,latih
+BLU-097,Blueberry,latih
+BLU-098,Blueberry,latih
+BLU-099,Blueberry,latih
+BLU-100,Blueberry,latih
+NAG-001,Buah Naga,latih
+NAG-002,Buah Naga,latih
+NAG-003,Buah Naga,latih
+NAG-004,Buah Naga,uji
+NAG-005,Buah Naga,latih
+NAG-006,Buah Naga,latih
+NAG-007,Buah Naga,latih
+NAG-008,Buah Naga,latih
+NAG-009,Buah Naga,latih
+NAG-010,Buah Naga,latih
+NAG-011,Buah Naga,latih
+NAG-012,Buah Naga,latih
+NAG-013,Buah Naga,latih
+NAG-014,Buah Naga,latih
+NAG-015,Buah Naga,latih
+NAG-016,Buah Naga,latih
+NAG-017,Buah Naga,uji
+NAG-018,Buah Naga,latih
+NAG-019,Buah Naga,uji
+NAG-020,Buah Naga,latih
+NAG-021,Buah Naga,latih
+NAG-022,Buah Naga,latih
+NAG-023,Buah Naga,latih
+NAG-024,Buah Naga,latih
+NAG-025,Buah Naga,latih
+NAG-026,Buah Naga,latih
+NAG-027,Buah Naga,latih
+NAG-028,Buah Naga,uji
+NAG-029,Buah Naga,latih
+NAG-030,Buah Naga,latih
+NAG-031,Buah Naga,uji
+NAG-032,Buah Naga,latih
+NAG-033,Buah Naga,latih
+NAG-034,Buah Naga,uji
+NAG-035,Buah Naga,latih
+NAG-036,Buah Naga,latih
+NAG-037,Buah Naga,latih
+NAG-038,Buah Naga,latih
+NAG-039,Buah Naga,latih
+NAG-040,Buah Naga,latih
+NAG-041,Buah Naga,latih
+NAG-042,Buah Naga,latih
+NAG-043,Buah Naga,latih
+NAG-044,Buah Naga,latih
+NAG-045,Buah Naga,latih
+NAG-046,Buah Naga,latih
+NAG-047,Buah Naga,latih
+NAG-048,Buah Naga,uji
+NAG-049,Buah Naga,latih
+NAG-050,Buah Naga,latih
+NAG-051,Buah Naga,latih
+NAG-052,Buah Naga,latih
+NAG-053,Buah Naga,uji
+NAG-054,Buah Naga,latih
+NAG-055,Buah Naga,latih
+NAG-056,Buah Naga,latih
+NAG-057,Buah Naga,latih
+NAG-058,Buah Naga,latih
+NAG-059,Buah Naga,latih
+NAG-060,Buah Naga,latih
+NAG-061,Buah Naga,uji
+NAG-062,Buah Naga,latih
+NAG-063,Buah Naga,uji
+NAG-064,Buah Naga,latih
+NAG-065,Buah Naga,latih
+NAG-066,Buah Naga,uji
+NAG-067,Buah Naga,uji
+NAG-068,Buah Naga,latih
+NAG-069,Buah Naga,latih
+NAG-070,Buah Naga,uji
+NAG-071,Buah Naga,latih
+NAG-072,Buah Naga,latih
+NAG-073,Buah Naga,uji
+NAG-074,Buah Naga,uji
+NAG-075,Buah Naga,latih
+NAG-076,Buah Naga,uji
+NAG-077,Buah Naga,latih
+NAG-078,Buah Naga,latih
+NAG-079,Buah Naga,latih
+NAG-080,Buah Naga,latih
+NAG-081,Buah Naga,latih
+NAG-082,Buah Naga,latih
+NAG-083,Buah Naga,uji
+NAG-084,Buah Naga,latih
+NAG-085,Buah Naga,latih
+NAG-086,Buah Naga,latih
+NAG-087,Buah Naga,latih
+NAG-088,Buah Naga,uji
+NAG-089,Buah Naga,uji
+NAG-090,Buah Naga,latih
+NAG-091,Buah Naga,latih
+NAG-092,Buah Naga,latih
+NAG-093,Buah Naga,latih
+NAG-094,Buah Naga,latih
+NAG-095,Buah Naga,latih
+NAG-096,Buah Naga,uji
+NAG-097,Buah Naga,latih
+NAG-098,Buah Naga,latih
+NAG-099,Buah Naga,latih
+NAG-100,Buah Naga,latih
+JAM-001,Jambu Merah,latih
+JAM-002,Jambu Merah,uji
+JAM-003,Jambu Merah,uji
+JAM-004,Jambu Merah,latih
+JAM-005,Jambu Merah,latih
+JAM-006,Jambu Merah,uji
+JAM-007,Jambu Merah,latih
+JAM-008,Jambu Merah,latih
+JAM-009,Jambu Merah,latih
+JAM-010,Jambu Merah,latih
+JAM-011,Jambu Merah,uji
+JAM-012,Jambu Merah,latih
+JAM-013,Jambu Merah,latih
+JAM-014,Jambu Merah,latih
+JAM-015,Jambu Merah,latih
+JAM-016,Jambu Merah,latih
+JAM-017,Jambu Merah,latih
+JAM-018,Jambu Merah,uji
+JAM-019,Jambu Merah,latih
+JAM-020,Jambu Merah,latih
+JAM-021,Jambu Merah,latih
+JAM-022,Jambu Merah,uji
+JAM-023,Jambu Merah,latih
+JAM-024,Jambu Merah,latih
+JAM-025,Jambu Merah,latih
+JAM-026,Jambu Merah,latih
+JAM-027,Jambu Merah,latih
+JAM-028,Jambu Merah,latih
+JAM-029,Jambu Merah,latih
+JAM-030,Jambu Merah,latih
+JAM-031,Jambu Merah,latih
+JAM-032,Jambu Merah,latih
+JAM-033,Jambu Merah,uji
+JAM-034,Jambu Merah,latih
+JAM-035,Jambu Merah,latih
+JAM-036,Jambu Merah,latih
+JAM-037,Jambu Merah,latih
+JAM-038,Jambu Merah,uji
+JAM-039,Jambu Merah,latih
+JAM-040,Jambu Merah,uji
+JAM-041,Jambu Merah,latih
+JAM-042,Jambu Merah,uji
+JAM-043,Jambu Merah,latih
+JAM-044,Jambu Merah,latih
+JAM-045,Jambu Merah,latih
+JAM-046,Jambu Merah,latih
+JAM-047,Jambu Merah,latih
+JAM-048,Jambu Merah,latih
+JAM-049,Jambu Merah,latih
+JAM-050,Jambu Merah,latih
+JAM-051,Jambu Merah,latih
+JAM-052,Jambu Merah,uji
+JAM-053,Jambu Merah,latih
+JAM-054,Jambu Merah,latih
+JAM-055,Jambu Merah,latih
+JAM-056,Jambu Merah,uji
+JAM-057,Jambu Merah,latih
+JAM-058,Jambu Merah,latih
+JAM-059,Jambu Merah,latih
+JAM-060,Jambu Merah,uji
+JAM-061,Jambu Merah,latih
+JAM-062,Jambu Merah,latih
+JAM-063,Jambu Merah,latih
+JAM-064,Jambu Merah,latih
+JAM-065,Jambu Merah,latih
+JAM-066,Jambu Merah,latih
+JAM-067,Jambu Merah,latih
+JAM-068,Jambu Merah,latih
+JAM-069,Jambu Merah,latih
+JAM-070,Jambu Merah,latih
+JAM-071,Jambu Merah,latih
+JAM-072,Jambu Merah,latih
+JAM-073,Jambu Merah,latih
+JAM-074,Jambu Merah,uji
+JAM-075,Jambu Merah,latih
+JAM-076,Jambu Merah,uji
+JAM-077,Jambu Merah,uji
+JAM-078,Jambu Merah,latih
+JAM-079,Jambu Merah,latih
+JAM-080,Jambu Merah,latih
+JAM-081,Jambu Merah,latih
+JAM-082,Jambu Merah,latih
+JAM-083,Jambu Merah,uji
+JAM-084,Jambu Merah,latih
+JAM-085,Jambu Merah,latih
+JAM-086,Jambu Merah,latih
+JAM-087,Jambu Merah,latih
+JAM-088,Jambu Merah,uji
+JAM-089,Jambu Merah,latih
+JAM-090,Jambu Merah,latih
+JAM-091,Jambu Merah,latih
+JAM-092,Jambu Merah,uji
+JAM-093,Jambu Merah,latih
+JAM-094,Jambu Merah,latih
+JAM-095,Jambu Merah,latih
+JAM-096,Jambu Merah,latih
+JAM-097,Jambu Merah,uji
+JAM-098,Jambu Merah,latih
+JAM-099,Jambu Merah,latih
+JAM-100,Jambu Merah,latih
+JER-001,Jeruk,latih
+JER-002,Jeruk,latih
+JER-003,Jeruk,latih
+JER-004,Jeruk,uji
+JER-005,Jeruk,latih
+JER-006,Jeruk,latih
+JER-007,Jeruk,latih
+JER-008,Jeruk,latih
+JER-009,Jeruk,latih
+JER-010,Jeruk,latih
+JER-011,Jeruk,uji
+JER-012,Jeruk,latih
+JER-013,Jeruk,latih
+JER-014,Jeruk,latih
+JER-015,Jeruk,latih
+JER-016,Jeruk,latih
+JER-017,Jeruk,uji
+JER-018,Jeruk,uji
+JER-019,Jeruk,latih
+JER-020,Jeruk,latih
+JER-021,Jeruk,latih
+JER-022,Jeruk,uji
+JER-023,Jeruk,uji
+JER-024,Jeruk,latih
+JER-025,Jeruk,latih
+JER-026,Jeruk,latih
+JER-027,Jeruk,latih
+JER-028,Jeruk,latih
+JER-029,Jeruk,latih
+JER-030,Jeruk,latih
+JER-031,Jeruk,latih
+JER-032,Jeruk,latih
+JER-033,Jeruk,uji
+JER-034,Jeruk,latih
+JER-035,Jeruk,latih
+JER-036,Jeruk,uji
+JER-037,Jeruk,latih
+JER-038,Jeruk,latih
+JER-039,Jeruk,uji
+JER-040,Jeruk,latih
+JER-041,Jeruk,latih
+JER-042,Jeruk,latih
+JER-043,Jeruk,latih
+JER-044,Jeruk,latih
+JER-045,Jeruk,latih
+JER-046,Jeruk,latih
+JER-047,Jeruk,latih
+JER-048,Jeruk,uji
+JER-049,Jeruk,latih
+JER-050,Jeruk,latih
+JER-051,Jeruk,latih
+JER-052,Jeruk,latih
+JER-053,Jeruk,latih
+JER-054,Jeruk,uji
+JER-055,Jeruk,uji
+JER-056,Jeruk,latih
+JER-057,Jeruk,uji
+JER-058,Jeruk,latih
+JER-059,Jeruk,uji
+JER-060,Jeruk,latih
+JER-061,Jeruk,latih
+JER-062,Jeruk,latih
+JER-063,Jeruk,latih
+JER-064,Jeruk,latih
+JER-065,Jeruk,latih
+JER-066,Jeruk,uji
+JER-067,Jeruk,latih
+JER-068,Jeruk,uji
+JER-069,Jeruk,latih
+JER-070,Jeruk,latih
+JER-071,Jeruk,latih
+JER-072,Jeruk,latih
+JER-073,Jeruk,latih
+JER-074,Jeruk,latih
+JER-075,Jeruk,latih
+JER-076,Jeruk,latih
+JER-077,Jeruk,latih
+JER-078,Jeruk,latih
+JER-079,Jeruk,latih
+JER-080,Jeruk,latih
+JER-081,Jeruk,latih
+JER-082,Jeruk,uji
+JER-083,Jeruk,latih
+JER-084,Jeruk,latih
+JER-085,Jeruk,uji
+JER-086,Jeruk,latih
+JER-087,Jeruk,latih
+JER-088,Jeruk,latih
+JER-089,Jeruk,latih
+JER-090,Jeruk,latih
+JER-091,Jeruk,latih
+JER-092,Jeruk,latih
+JER-093,Jeruk,latih
+JER-094,Jeruk,latih
+JER-095,Jeruk,latih
+JER-096,Jeruk,latih
+JER-097,Jeruk,uji
+JER-098,Jeruk,latih
+JER-099,Jeruk,latih
+JER-100,Jeruk,uji
+KEL-001,Kelapa,uji
+KEL-002,Kelapa,latih
+KEL-003,Kelapa,latih
+KEL-004,Kelapa,latih
+KEL-005,Kelapa,latih
+KEL-006,Kelapa,uji
+KEL-007,Kelapa,latih
+KEL-008,Kelapa,latih
+KEL-009,Kelapa,uji
+KEL-010,Kelapa,latih
+KEL-011,Kelapa,latih
+KEL-012,Kelapa,latih
+KEL-013,Kelapa,latih
+KEL-014,Kelapa,latih
+KEL-015,Kelapa,uji
+KEL-016,Kelapa,latih
+KEL-017,Kelapa,latih
+KEL-018,Kelapa,latih
+KEL-019,Kelapa,latih
+KEL-020,Kelapa,latih
+KEL-021,Kelapa,latih
+KEL-022,Kelapa,uji
+KEL-023,Kelapa,latih
+KEL-024,Kelapa,latih
+KEL-025,Kelapa,latih
+KEL-026,Kelapa,latih
+KEL-027,Kelapa,uji
+KEL-028,Kelapa,latih
+KEL-029,Kelapa,latih
+KEL-030,Kelapa,latih
+KEL-031,Kelapa,latih
+KEL-032,Kelapa,uji
+KEL-033,Kelapa,latih
+KEL-034,Kelapa,uji
+KEL-035,Kelapa,latih
+KEL-036,Kelapa,latih
+KEL-037,Kelapa,latih
+KEL-038,Kelapa,latih
+KEL-039,Kelapa,latih
+KEL-040,Kelapa,latih
+KEL-041,Kelapa,latih
+KEL-042,Kelapa,latih
+KEL-043,Kelapa,uji
+KEL-044,Kelapa,latih
+KEL-045,Kelapa,latih
+KEL-046,Kelapa,latih
+KEL-047,Kelapa,latih
+KEL-048,Kelapa,latih
+KEL-049,Kelapa,latih
+KEL-050,Kelapa,latih
+KEL-051,Kelapa,uji
+KEL-052,Kelapa,latih
+KEL-053,Kelapa,latih
+KEL-054,Kelapa,latih
+KEL-055,Kelapa,latih
+KEL-056,Kelapa,latih
+KEL-057,Kelapa,latih
+KEL-058,Kelapa,latih
+KEL-059,Kelapa,latih
+KEL-060,Kelapa,latih
+KEL-061,Kelapa,uji
+KEL-062,Kelapa,latih
+KEL-063,Kelapa,uji
+KEL-064,Kelapa,latih
+KEL-065,Kelapa,latih
+KEL-066,Kelapa,latih
+KEL-067,Kelapa,latih
+KEL-068,Kelapa,latih
+KEL-069,Kelapa,latih
+KEL-070,Kelapa,latih
+KEL-071,Kelapa,uji
+KEL-072,Kelapa,latih
+KEL-073,Kelapa,latih
+KEL-074,Kelapa,latih
+KEL-075,Kelapa,latih
+KEL-076,Kelapa,latih
+KEL-077,Kelapa,latih
+KEL-078,Kelapa,latih
+KEL-079,Kelapa,latih
+KEL-080,Kelapa,latih
+KEL-081,Kelapa,latih
+KEL-082,Kelapa,latih
+KEL-083,Kelapa,latih
+KEL-084,Kelapa,latih
+KEL-085,Kelapa,latih
+KEL-086,Kelapa,uji
+KEL-087,Kelapa,latih
+KEL-088,Kelapa,latih
+KEL-089,Kelapa,uji
+KEL-090,Kelapa,uji
+KEL-091,Kelapa,uji
+KEL-092,Kelapa,latih
+KEL-093,Kelapa,latih
+KEL-094,Kelapa,uji
+KEL-095,Kelapa,latih
+KEL-096,Kelapa,uji
+KEL-097,Kelapa,latih
+KEL-098,Kelapa,latih
+KEL-099,Kelapa,uji
+KEL-100,Kelapa,latih
+MAN-001,Mangga,latih
+MAN-002,Mangga,latih
+MAN-003,Mangga,uji
+MAN-004,Mangga,latih
+MAN-005,Mangga,latih
+MAN-006,Mangga,latih
+MAN-007,Mangga,latih
+MAN-008,Mangga,latih
+MAN-009,Mangga,uji
+MAN-010,Mangga,latih
+MAN-011,Mangga,latih
+MAN-012,Mangga,latih
+MAN-013,Mangga,latih
+MAN-014,Mangga,latih
+MAN-015,Mangga,latih
+MAN-016,Mangga,latih
+MAN-017,Mangga,latih
+MAN-018,Mangga,latih
+MAN-019,Mangga,uji
+MAN-020,Mangga,latih
+MAN-021,Mangga,latih
+MAN-022,Mangga,latih
+MAN-023,Mangga,latih
+MAN-024,Mangga,latih
+MAN-025,Mangga,latih
+MAN-026,Mangga,latih
+MAN-027,Mangga,latih
+MAN-028,Mangga,latih
+MAN-029,Mangga,uji
+MAN-030,Mangga,latih
+MAN-031,Mangga,latih
+MAN-032,Mangga,latih
+MAN-033,Mangga,uji
+MAN-034,Mangga,latih
+MAN-035,Mangga,uji
+MAN-036,Mangga,latih
+MAN-037,Mangga,uji
+MAN-038,Mangga,latih
+MAN-039,Mangga,latih
+MAN-040,Mangga,latih
+MAN-041,Mangga,latih
+MAN-042,Mangga,latih
+MAN-043,Mangga,latih
+MAN-044,Mangga,latih
+MAN-045,Mangga,latih
+MAN-046,Mangga,latih
+MAN-047,Mangga,latih
+MAN-048,Mangga,latih
+MAN-049,Mangga,latih
+MAN-050,Mangga,latih
+MAN-051,Mangga,latih
+MAN-052,Mangga,latih
+MAN-053,Mangga,latih
+MAN-054,Mangga,latih
+MAN-055,Mangga,latih
+MAN-056,Mangga,latih
+MAN-057,Mangga,latih
+MAN-058,Mangga,uji
+MAN-059,Mangga,latih
+MAN-060,Mangga,latih
+MAN-061,Mangga,latih
+MAN-062,Mangga,latih
+MAN-063,Mangga,latih
+MAN-064,Mangga,uji
+MAN-065,Mangga,latih
+MAN-066,Mangga,latih
+MAN-067,Mangga,latih
+MAN-068,Mangga,latih
+MAN-069,Mangga,latih
+MAN-070,Mangga,uji
+MAN-071,Mangga,latih
+MAN-072,Mangga,uji
+MAN-073,Mangga,latih
+MAN-074,Mangga,latih
+MAN-075,Mangga,uji
+MAN-076,Mangga,latih
+MAN-077,Mangga,latih
+MAN-078,Mangga,uji
+MAN-079,Mangga,latih
+MAN-080,Mangga,latih
+MAN-081,Mangga,uji
+MAN-082,Mangga,uji
+MAN-083,Mangga,latih
+MAN-084,Mangga,latih
+MAN-085,Mangga,latih
+MAN-086,Mangga,latih
+MAN-087,Mangga,latih
+MAN-088,Mangga,latih
+MAN-089,Mangga,latih
+MAN-090,Mangga,uji
+MAN-091,Mangga,latih
+MAN-092,Mangga,latih
+MAN-093,Mangga,uji
+MAN-094,Mangga,uji
+MAN-095,Mangga,latih
+MAN-096,Mangga,latih
+MAN-097,Mangga,uji
+MAN-098,Mangga,uji
+MAN-099,Mangga,latih
+MAN-100,Mangga,latih
+MEL-001,Melon,latih
+MEL-002,Melon,uji
+MEL-003,Melon,uji
+MEL-004,Melon,latih
+MEL-005,Melon,latih
+MEL-006,Melon,latih
+MEL-007,Melon,uji
+MEL-008,Melon,latih
+MEL-009,Melon,latih
+MEL-010,Melon,latih
+MEL-011,Melon,latih
+MEL-012,Melon,uji
+MEL-013,Melon,uji
+MEL-014,Melon,uji
+MEL-015,Melon,latih
+MEL-016,Melon,latih
+MEL-017,Melon,latih
+MEL-018,Melon,latih
+MEL-019,Melon,uji
+MEL-020,Melon,latih
+MEL-021,Melon,latih
+MEL-022,Melon,uji
+MEL-023,Melon,latih
+MEL-024,Melon,latih
+MEL-025,Melon,latih
+MEL-026,Melon,latih
+MEL-027,Melon,latih
+MEL-028,Melon,latih
+MEL-029,Melon,latih
+MEL-030,Melon,latih
+MEL-031,Melon,latih
+MEL-032,Melon,latih
+MEL-033,Melon,latih
+MEL-034,Melon,latih
+MEL-035,Melon,uji
+MEL-036,Melon,uji
+MEL-037,Melon,latih
+MEL-038,Melon,latih
+MEL-039,Melon,latih
+MEL-040,Melon,latih
+MEL-041,Melon,latih
+MEL-042,Melon,latih
+MEL-043,Melon,latih
+MEL-044,Melon,uji
+MEL-045,Melon,latih
+MEL-046,Melon,latih
+MEL-047,Melon,latih
+MEL-048,Melon,latih
+MEL-049,Melon,latih
+MEL-050,Melon,latih
+MEL-051,Melon,latih
+MEL-052,Melon,latih
+MEL-053,Melon,latih
+MEL-054,Melon,latih
+MEL-055,Melon,latih
+MEL-056,Melon,latih
+MEL-057,Melon,latih
+MEL-058,Melon,latih
+MEL-059,Melon,latih
+MEL-060,Melon,latih
+MEL-061,Melon,uji
+MEL-062,Melon,latih
+MEL-063,Melon,uji
+MEL-064,Melon,latih
+MEL-065,Melon,latih
+MEL-066,Melon,uji
+MEL-067,Melon,latih
+MEL-068,Melon,latih
+MEL-069,Melon,latih
+MEL-070,Melon,latih
+MEL-071,Melon,latih
+MEL-072,Melon,uji
+MEL-073,Melon,latih
+MEL-074,Melon,latih
+MEL-075,Melon,uji
+MEL-076,Melon,latih
+MEL-077,Melon,latih
+MEL-078,Melon,latih
+MEL-079,Melon,latih
+MEL-080,Melon,latih
+MEL-081,Melon,latih
+MEL-082,Melon,latih
+MEL-083,Melon,latih
+MEL-084,Melon,latih
+MEL-085,Melon,uji
+MEL-086,Melon,latih
+MEL-087,Melon,uji
+MEL-088,Melon,latih
+MEL-089,Melon,uji
+MEL-090,Melon,latih
+MEL-091,Melon,latih
+MEL-092,Melon,latih
+MEL-093,Melon,latih
+MEL-094,Melon,latih
+MEL-095,Melon,latih
+MEL-096,Melon,latih
+MEL-097,Melon,latih
+MEL-098,Melon,latih
+MEL-099,Melon,latih
+MEL-100,Melon,uji
+NAN-001,Nanas,latih
+NAN-002,Nanas,latih
+NAN-003,Nanas,latih
+NAN-004,Nanas,latih
+NAN-005,Nanas,uji
+NAN-006,Nanas,latih
+NAN-007,Nanas,latih
+NAN-008,Nanas,latih
+NAN-009,Nanas,latih
+NAN-010,Nanas,latih
+NAN-011,Nanas,latih
+NAN-012,Nanas,latih
+NAN-013,Nanas,latih
+NAN-014,Nanas,uji
+NAN-015,Nanas,latih
+NAN-016,Nanas,latih
+NAN-017,Nanas,latih
+NAN-018,Nanas,uji
+NAN-019,Nanas,latih
+NAN-020,Nanas,latih
+NAN-021,Nanas,latih
+NAN-022,Nanas,latih
+NAN-023,Nanas,latih
+NAN-024,Nanas,uji
+NAN-025,Nanas,latih
+NAN-026,Nanas,latih
+NAN-027,Nanas,uji
+NAN-028,Nanas,uji
+NAN-029,Nanas,latih
+NAN-030,Nanas,latih
+NAN-031,Nanas,latih
+NAN-032,Nanas,uji
+NAN-033,Nanas,uji
+NAN-034,Nanas,latih
+NAN-035,Nanas,latih
+NAN-036,Nanas,latih
+NAN-037,Nanas,latih
+NAN-038,Nanas,uji
+NAN-039,Nanas,latih
+NAN-040,Nanas,latih
+NAN-041,Nanas,latih
+NAN-042,Nanas,latih
+NAN-043,Nanas,latih
+NAN-044,Nanas,latih
+NAN-045,Nanas,latih
+NAN-046,Nanas,latih
+NAN-047,Nanas,latih
+NAN-048,Nanas,uji
+NAN-049,Nanas,uji
+NAN-050,Nanas,latih
+NAN-051,Nanas,latih
+NAN-052,Nanas,latih
+NAN-053,Nanas,latih
+NAN-054,Nanas,latih
+NAN-055,Nanas,latih
+NAN-056,Nanas,latih
+NAN-057,Nanas,latih
+NAN-058,Nanas,latih
+NAN-059,Nanas,latih
+NAN-060,Nanas,latih
+NAN-061,Nanas,latih
+NAN-062,Nanas,latih
+NAN-063,Nanas,latih
+NAN-064,Nanas,uji
+NAN-065,Nanas,uji
+NAN-066,Nanas,latih
+NAN-067,Nanas,latih
+NAN-068,Nanas,latih
+NAN-069,Nanas,latih
+NAN-070,Nanas,latih
+NAN-071,Nanas,latih
+NAN-072,Nanas,latih
+NAN-073,Nanas,latih
+NAN-074,Nanas,uji
+NAN-075,Nanas,uji
+NAN-076,Nanas,latih
+NAN-077,Nanas,uji
+NAN-078,Nanas,latih
+NAN-079,Nanas,latih
+NAN-080,Nanas,latih
+NAN-081,Nanas,latih
+NAN-082,Nanas,latih
+NAN-083,Nanas,uji
+NAN-084,Nanas,latih
+NAN-085,Nanas,latih
+NAN-086,Nanas,latih
+NAN-087,Nanas,latih
+NAN-088,Nanas,latih
+NAN-089,Nanas,latih
+NAN-090,Nanas,latih
+NAN-091,Nanas,uji
+NAN-092,Nanas,latih
+NAN-093,Nanas,latih
+NAN-094,Nanas,latih
+NAN-095,Nanas,latih
+NAN-096,Nanas,latih
+NAN-097,Nanas,uji
+NAN-098,Nanas,uji
+NAN-099,Nanas,latih
+NAN-100,Nanas,latih
+PAK-001,Pakcoy,latih
+PAK-002,Pakcoy,uji
+PAK-003,Pakcoy,latih
+PAK-004,Pakcoy,latih
+PAK-005,Pakcoy,latih
+PAK-006,Pakcoy,latih
+PAK-007,Pakcoy,latih
+PAK-008,Pakcoy,latih
+PAK-009,Pakcoy,uji
+PAK-010,Pakcoy,latih
+PAK-011,Pakcoy,latih
+PAK-012,Pakcoy,uji
+PAK-013,Pakcoy,uji
+PAK-014,Pakcoy,latih
+PAK-015,Pakcoy,latih
+PAK-016,Pakcoy,uji
+PAK-017,Pakcoy,latih
+PAK-018,Pakcoy,latih
+PAK-019,Pakcoy,latih
+PAK-020,Pakcoy,latih
+PAK-021,Pakcoy,latih
+PAK-022,Pakcoy,uji
+PAK-023,Pakcoy,latih
+PAK-024,Pakcoy,latih
+PAK-025,Pakcoy,uji
+PAK-026,Pakcoy,latih
+PAK-027,Pakcoy,latih
+PAK-028,Pakcoy,uji
+PAK-029,Pakcoy,latih
+PAK-030,Pakcoy,latih
+PAK-031,Pakcoy,latih
+PAK-032,Pakcoy,uji
+PAK-033,Pakcoy,latih
+PAK-034,Pakcoy,latih
+PAK-035,Pakcoy,latih
+PAK-036,Pakcoy,uji
+PAK-037,Pakcoy,latih
+PAK-038,Pakcoy,latih
+PAK-039,Pakcoy,latih
+PAK-040,Pakcoy,latih
+PAK-041,Pakcoy,latih
+PAK-042,Pakcoy,latih
+PAK-043,Pakcoy,uji
+PAK-044,Pakcoy,latih
+PAK-045,Pakcoy,latih
+PAK-046,Pakcoy,latih
+PAK-047,Pakcoy,latih
+PAK-048,Pakcoy,latih
+PAK-049,Pakcoy,latih
+PAK-050,Pakcoy,latih
+PAK-051,Pakcoy,latih
+PAK-052,Pakcoy,uji
+PAK-053,Pakcoy,latih
+PAK-054,Pakcoy,latih
+PAK-055,Pakcoy,latih
+PAK-056,Pakcoy,latih
+PAK-057,Pakcoy,latih
+PAK-058,Pakcoy,latih
+PAK-059,Pakcoy,latih
+PAK-060,Pakcoy,latih
+PAK-061,Pakcoy,uji
+PAK-062,Pakcoy,latih
+PAK-063,Pakcoy,latih
+PAK-064,Pakcoy,latih
+PAK-065,Pakcoy,latih
+PAK-066,Pakcoy,latih
+PAK-067,Pakcoy,latih
+PAK-068,Pakcoy,uji
+PAK-069,Pakcoy,latih
+PAK-070,Pakcoy,latih
+PAK-071,Pakcoy,latih
+PAK-072,Pakcoy,latih
+PAK-073,Pakcoy,uji
+PAK-074,Pakcoy,uji
+PAK-075,Pakcoy,latih
+PAK-076,Pakcoy,latih
+PAK-077,Pakcoy,latih
+PAK-078,Pakcoy,uji
+PAK-079,Pakcoy,latih
+PAK-080,Pakcoy,latih
+PAK-081,Pakcoy,latih
+PAK-082,Pakcoy,latih
+PAK-083,Pakcoy,latih
+PAK-084,Pakcoy,latih
+PAK-085,Pakcoy,uji
+PAK-086,Pakcoy,latih
+PAK-087,Pakcoy,latih
+PAK-088,Pakcoy,uji
+PAK-089,Pakcoy,latih
+PAK-090,Pakcoy,latih
+PAK-091,Pakcoy,uji
+PAK-092,Pakcoy,latih
+PAK-093,Pakcoy,latih
+PAK-094,Pakcoy,latih
+PAK-095,Pakcoy,latih
+PAK-096,Pakcoy,latih
+PAK-097,Pakcoy,latih
+PAK-098,Pakcoy,latih
+PAK-099,Pakcoy,latih
+PAK-100,Pakcoy,latih
+PEP-001,Pepaya,latih
+PEP-002,Pepaya,latih
+PEP-003,Pepaya,latih
+PEP-004,Pepaya,uji
+PEP-005,Pepaya,uji
+PEP-006,Pepaya,latih
+PEP-007,Pepaya,latih
+PEP-008,Pepaya,latih
+PEP-009,Pepaya,latih
+PEP-010,Pepaya,uji
+PEP-011,Pepaya,latih
+PEP-012,Pepaya,uji
+PEP-013,Pepaya,latih
+PEP-014,Pepaya,uji
+PEP-015,Pepaya,latih
+PEP-016,Pepaya,latih
+PEP-017,Pepaya,latih
+PEP-018,Pepaya,latih
+PEP-019,Pepaya,latih
+PEP-020,Pepaya,latih
+PEP-021,Pepaya,latih
+PEP-022,Pepaya,latih
+PEP-023,Pepaya,latih
+PEP-024,Pepaya,latih
+PEP-025,Pepaya,latih
+PEP-026,Pepaya,uji
+PEP-027,Pepaya,latih
+PEP-028,Pepaya,latih
+PEP-029,Pepaya,latih
+PEP-030,Pepaya,latih
+PEP-031,Pepaya,uji
+PEP-032,Pepaya,latih
+PEP-033,Pepaya,latih
+PEP-034,Pepaya,latih
+PEP-035,Pepaya,latih
+PEP-036,Pepaya,uji
+PEP-037,Pepaya,uji
+PEP-038,Pepaya,latih
+PEP-039,Pepaya,latih
+PEP-040,Pepaya,latih
+PEP-041,Pepaya,uji
+PEP-042,Pepaya,latih
+PEP-043,Pepaya,latih
+PEP-044,Pepaya,latih
+PEP-045,Pepaya,latih
+PEP-046,Pepaya,latih
+PEP-047,Pepaya,latih
+PEP-048,Pepaya,latih
+PEP-049,Pepaya,uji
+PEP-050,Pepaya,latih
+PEP-051,Pepaya,latih
+PEP-052,Pepaya,latih
+PEP-053,Pepaya,latih
+PEP-054,Pepaya,latih
+PEP-055,Pepaya,latih
+PEP-056,Pepaya,uji
+PEP-057,Pepaya,latih
+PEP-058,Pepaya,latih
+PEP-059,Pepaya,latih
+PEP-060,Pepaya,uji
+PEP-061,Pepaya,latih
+PEP-062,Pepaya,latih
+PEP-063,Pepaya,latih
+PEP-064,Pepaya,uji
+PEP-065,Pepaya,uji
+PEP-066,Pepaya,uji
+PEP-067,Pepaya,latih
+PEP-068,Pepaya,latih
+PEP-069,Pepaya,uji
+PEP-070,Pepaya,latih
+PEP-071,Pepaya,uji
+PEP-072,Pepaya,latih
+PEP-073,Pepaya,latih
+PEP-074,Pepaya,latih
+PEP-075,Pepaya,latih
+PEP-076,Pepaya,latih
+PEP-077,Pepaya,latih
+PEP-078,Pepaya,latih
+PEP-079,Pepaya,latih
+PEP-080,Pepaya,latih
+PEP-081,Pepaya,latih
+PEP-082,Pepaya,latih
+PEP-083,Pepaya,latih
+PEP-084,Pepaya,latih
+PEP-085,Pepaya,latih
+PEP-086,Pepaya,latih
+PEP-087,Pepaya,latih
+PEP-088,Pepaya,latih
+PEP-089,Pepaya,uji
+PEP-090,Pepaya,latih
+PEP-091,Pepaya,latih
+PEP-092,Pepaya,latih
+PEP-093,Pepaya,uji
+PEP-094,Pepaya,latih
+PEP-095,Pepaya,latih
+PEP-096,Pepaya,latih
+PEP-097,Pepaya,latih
+PEP-098,Pepaya,latih
+PEP-099,Pepaya,latih
+PEP-100,Pepaya,latih
+PIS-001,Pisang,latih
+PIS-002,Pisang,latih
+PIS-003,Pisang,uji
+PIS-004,Pisang,latih
+PIS-005,Pisang,uji
+PIS-006,Pisang,latih
+PIS-007,Pisang,latih
+PIS-008,Pisang,latih
+PIS-009,Pisang,latih
+PIS-010,Pisang,uji
+PIS-011,Pisang,uji
+PIS-012,Pisang,latih
+PIS-013,Pisang,latih
+PIS-014,Pisang,latih
+PIS-015,Pisang,latih
+PIS-016,Pisang,latih
+PIS-017,Pisang,uji
+PIS-018,Pisang,latih
+PIS-019,Pisang,latih
+PIS-020,Pisang,uji
+PIS-021,Pisang,latih
+PIS-022,Pisang,latih
+PIS-023,Pisang,latih
+PIS-024,Pisang,latih
+PIS-025,Pisang,latih
+PIS-026,Pisang,latih
+PIS-027,Pisang,latih
+PIS-028,Pisang,latih
+PIS-029,Pisang,latih
+PIS-030,Pisang,uji
+PIS-031,Pisang,latih
+PIS-032,Pisang,latih
+PIS-033,Pisang,latih
+PIS-034,Pisang,uji
+PIS-035,Pisang,latih
+PIS-036,Pisang,latih
+PIS-037,Pisang,uji
+PIS-038,Pisang,latih
+PIS-039,Pisang,latih
+PIS-040,Pisang,latih
+PIS-041,Pisang,latih
+PIS-042,Pisang,latih
+PIS-043,Pisang,latih
+PIS-044,Pisang,latih
+PIS-045,Pisang,latih
+PIS-046,Pisang,latih
+PIS-047,Pisang,uji
+PIS-048,Pisang,latih
+PIS-049,Pisang,latih
+PIS-050,Pisang,latih
+PIS-051,Pisang,latih
+PIS-052,Pisang,uji
+PIS-053,Pisang,uji
+PIS-054,Pisang,latih
+PIS-055,Pisang,latih
+PIS-056,Pisang,latih
+PIS-057,Pisang,latih
+PIS-058,Pisang,latih
+PIS-059,Pisang,latih
+PIS-060,Pisang,latih
+PIS-061,Pisang,uji
+PIS-062,Pisang,latih
+PIS-063,Pisang,latih
+PIS-064,Pisang,uji
+PIS-065,Pisang,latih
+PIS-066,Pisang,latih
+PIS-067,Pisang,latih
+PIS-068,Pisang,latih
+PIS-069,Pisang,latih
+PIS-070,Pisang,uji
+PIS-071,Pisang,latih
+PIS-072,Pisang,latih
+PIS-073,Pisang,latih
+PIS-074,Pisang,latih
+PIS-075,Pisang,uji
+PIS-076,Pisang,latih
+PIS-077,Pisang,latih
+PIS-078,Pisang,uji
+PIS-079,Pisang,latih
+PIS-080,Pisang,latih
+PIS-081,Pisang,latih
+PIS-082,Pisang,uji
+PIS-083,Pisang,latih
+PIS-084,Pisang,latih
+PIS-085,Pisang,latih
+PIS-086,Pisang,uji
+PIS-087,Pisang,latih
+PIS-088,Pisang,latih
+PIS-089,Pisang,latih
+PIS-090,Pisang,latih
+PIS-091,Pisang,latih
+PIS-092,Pisang,latih
+PIS-093,Pisang,latih
+PIS-094,Pisang,latih
+PIS-095,Pisang,uji
+PIS-096,Pisang,latih
+PIS-097,Pisang,latih
+PIS-098,Pisang,latih
+PIS-099,Pisang,latih
+PIS-100,Pisang,latih
+SEM-001,Semangka,uji
+SEM-002,Semangka,latih
+SEM-003,Semangka,latih
+SEM-004,Semangka,latih
+SEM-005,Semangka,latih
+SEM-006,Semangka,latih
+SEM-007,Semangka,latih
+SEM-008,Semangka,uji
+SEM-009,Semangka,latih
+SEM-010,Semangka,latih
+SEM-011,Semangka,latih
+SEM-012,Semangka,latih
+SEM-013,Semangka,latih
+SEM-014,Semangka,latih
+SEM-015,Semangka,latih
+SEM-016,Semangka,latih
+SEM-017,Semangka,uji
+SEM-018,Semangka,latih
+SEM-019,Semangka,latih
+SEM-020,Semangka,latih
+SEM-021,Semangka,latih
+SEM-022,Semangka,latih
+SEM-023,Semangka,latih
+SEM-024,Semangka,latih
+SEM-025,Semangka,latih
+SEM-026,Semangka,latih
+SEM-027,Semangka,latih
+SEM-028,Semangka,uji
+SEM-029,Semangka,latih
+SEM-030,Semangka,latih
+SEM-031,Semangka,latih
+SEM-032,Semangka,latih
+SEM-033,Semangka,latih
+SEM-034,Semangka,latih
+SEM-035,Semangka,uji
+SEM-036,Semangka,latih
+SEM-037,Semangka,latih
+SEM-038,Semangka,latih
+SEM-039,Semangka,latih
+SEM-040,Semangka,uji
+SEM-041,Semangka,latih
+SEM-042,Semangka,latih
+SEM-043,Semangka,latih
+SEM-044,Semangka,latih
+SEM-045,Semangka,latih
+SEM-046,Semangka,uji
+SEM-047,Semangka,uji
+SEM-048,Semangka,latih
+SEM-049,Semangka,latih
+SEM-050,Semangka,uji
+SEM-051,Semangka,latih
+SEM-052,Semangka,latih
+SEM-053,Semangka,uji
+SEM-054,Semangka,latih
+SEM-055,Semangka,uji
+SEM-056,Semangka,latih
+SEM-057,Semangka,latih
+SEM-058,Semangka,latih
+SEM-059,Semangka,uji
+SEM-060,Semangka,latih
+SEM-061,Semangka,latih
+SEM-062,Semangka,latih
+SEM-063,Semangka,latih
+SEM-064,Semangka,latih
+SEM-065,Semangka,uji
+SEM-066,Semangka,uji
+SEM-067,Semangka,latih
+SEM-068,Semangka,latih
+SEM-069,Semangka,latih
+SEM-070,Semangka,latih
+SEM-071,Semangka,latih
+SEM-072,Semangka,uji
+SEM-073,Semangka,uji
+SEM-074,Semangka,latih
+SEM-075,Semangka,latih
+SEM-076,Semangka,latih
+SEM-077,Semangka,uji
+SEM-078,Semangka,latih
+SEM-079,Semangka,latih
+SEM-080,Semangka,latih
+SEM-081,Semangka,latih
+SEM-082,Semangka,latih
+SEM-083,Semangka,latih
+SEM-084,Semangka,uji
+SEM-085,Semangka,uji
+SEM-086,Semangka,latih
+SEM-087,Semangka,latih
+SEM-088,Semangka,latih
+SEM-089,Semangka,uji
+SEM-090,Semangka,latih
+SEM-091,Semangka,latih
+SEM-092,Semangka,latih
+SEM-093,Semangka,latih
+SEM-094,Semangka,latih
+SEM-095,Semangka,latih
+SEM-096,Semangka,latih
+SEM-097,Semangka,latih
+SEM-098,Semangka,latih
+SEM-099,Semangka,latih
+SEM-100,Semangka,latih
+SIR-001,Sirsak,latih
+SIR-002,Sirsak,latih
+SIR-003,Sirsak,uji
+SIR-004,Sirsak,uji
+SIR-005,Sirsak,latih
+SIR-006,Sirsak,uji
+SIR-007,Sirsak,latih
+SIR-008,Sirsak,latih
+SIR-009,Sirsak,latih
+SIR-010,Sirsak,latih
+SIR-011,Sirsak,latih
+SIR-012,Sirsak,latih
+SIR-013,Sirsak,latih
+SIR-014,Sirsak,latih
+SIR-015,Sirsak,latih
+SIR-016,Sirsak,latih
+SIR-017,Sirsak,latih
+SIR-018,Sirsak,latih
+SIR-019,Sirsak,latih
+SIR-020,Sirsak,latih
+SIR-021,Sirsak,latih
+SIR-022,Sirsak,latih
+SIR-023,Sirsak,latih
+SIR-024,Sirsak,latih
+SIR-025,Sirsak,latih
+SIR-026,Sirsak,latih
+SIR-027,Sirsak,latih
+SIR-028,Sirsak,latih
+SIR-029,Sirsak,latih
+SIR-030,Sirsak,latih
+SIR-031,Sirsak,uji
+SIR-032,Sirsak,latih
+SIR-033,Sirsak,latih
+SIR-034,Sirsak,latih
+SIR-035,Sirsak,latih
+SIR-036,Sirsak,latih
+SIR-037,Sirsak,uji
+SIR-038,Sirsak,latih
+SIR-039,Sirsak,latih
+SIR-040,Sirsak,latih
+SIR-041,Sirsak,latih
+SIR-042,Sirsak,latih
+SIR-043,Sirsak,latih
+SIR-044,Sirsak,latih
+SIR-045,Sirsak,uji
+SIR-046,Sirsak,latih
+SIR-047,Sirsak,latih
+SIR-048,Sirsak,latih
+SIR-049,Sirsak,latih
+SIR-050,Sirsak,uji
+SIR-051,Sirsak,latih
+SIR-052,Sirsak,latih
+SIR-053,Sirsak,uji
+SIR-054,Sirsak,uji
+SIR-055,Sirsak,latih
+SIR-056,Sirsak,latih
+SIR-057,Sirsak,uji
+SIR-058,Sirsak,latih
+SIR-059,Sirsak,latih
+SIR-060,Sirsak,uji
+SIR-061,Sirsak,uji
+SIR-062,Sirsak,latih
+SIR-063,Sirsak,latih
+SIR-064,Sirsak,latih
+SIR-065,Sirsak,latih
+SIR-066,Sirsak,uji
+SIR-067,Sirsak,uji
+SIR-068,Sirsak,latih
+SIR-069,Sirsak,latih
+SIR-070,Sirsak,latih
+SIR-071,Sirsak,uji
+SIR-072,Sirsak,latih
+SIR-073,Sirsak,latih
+SIR-074,Sirsak,latih
+SIR-075,Sirsak,uji
+SIR-076,Sirsak,latih
+SIR-077,Sirsak,latih
+SIR-078,Sirsak,latih
+SIR-079,Sirsak,latih
+SIR-080,Sirsak,latih
+SIR-081,Sirsak,latih
+SIR-082,Sirsak,latih
+SIR-083,Sirsak,latih
+SIR-084,Sirsak,latih
+SIR-085,Sirsak,latih
+SIR-086,Sirsak,latih
+SIR-087,Sirsak,latih
+SIR-088,Sirsak,latih
+SIR-089,Sirsak,uji
+SIR-090,Sirsak,latih
+SIR-091,Sirsak,latih
+SIR-092,Sirsak,uji
+SIR-093,Sirsak,latih
+SIR-094,Sirsak,latih
+SIR-095,Sirsak,uji
+SIR-096,Sirsak,latih
+SIR-097,Sirsak,latih
+SIR-098,Sirsak,uji
+SIR-099,Sirsak,latih
+SIR-100,Sirsak,latih
+STR-001,Stroberi,latih
+STR-002,Stroberi,uji
+STR-003,Stroberi,latih
+STR-004,Stroberi,latih
+STR-005,Stroberi,latih
+STR-006,Stroberi,latih
+STR-007,Stroberi,latih
+STR-008,Stroberi,latih
+STR-009,Stroberi,latih
+STR-010,Stroberi,latih
+STR-011,Stroberi,latih
+STR-012,Stroberi,latih
+STR-013,Stroberi,uji
+STR-014,Stroberi,uji
+STR-015,Stroberi,uji
+STR-016,Stroberi,latih
+STR-017,Stroberi,latih
+STR-018,Stroberi,latih
+STR-019,Stroberi,uji
+STR-020,Stroberi,latih
+STR-021,Stroberi,latih
+STR-022,Stroberi,uji
+STR-023,Stroberi,latih
+STR-024,Stroberi,latih
+STR-025,Stroberi,latih
+STR-026,Stroberi,latih
+STR-027,Stroberi,latih
+STR-028,Stroberi,latih
+STR-029,Stroberi,latih
+STR-030,Stroberi,latih
+STR-031,Stroberi,latih
+STR-032,Stroberi,latih
+STR-033,Stroberi,latih
+STR-034,Stroberi,latih
+STR-035,Stroberi,latih
+STR-036,Stroberi,latih
+STR-037,Stroberi,uji
+STR-038,Stroberi,latih
+STR-039,Stroberi,uji
+STR-040,Stroberi,latih
+STR-041,Stroberi,latih
+STR-042,Stroberi,uji
+STR-043,Stroberi,uji
+STR-044,Stroberi,latih
+STR-045,Stroberi,uji
+STR-046,Stroberi,latih
+STR-047,Stroberi,uji
+STR-048,Stroberi,latih
+STR-049,Stroberi,latih
+STR-050,Stroberi,latih
+STR-051,Stroberi,latih
+STR-052,Stroberi,uji
+STR-053,Stroberi,latih
+STR-054,Stroberi,latih
+STR-055,Stroberi,latih
+STR-056,Stroberi,uji
+STR-057,Stroberi,uji
+STR-058,Stroberi,latih
+STR-059,Stroberi,latih
+STR-060,Stroberi,latih
+STR-061,Stroberi,latih
+STR-062,Stroberi,latih
+STR-063,Stroberi,latih
+STR-064,Stroberi,latih
+STR-065,Stroberi,latih
+STR-066,Stroberi,latih
+STR-067,Stroberi,latih
+STR-068,Stroberi,latih
+STR-069,Stroberi,uji
+STR-070,Stroberi,latih
+STR-071,Stroberi,latih
+STR-072,Stroberi,latih
+STR-073,Stroberi,latih
+STR-074,Stroberi,latih
+STR-075,Stroberi,latih
+STR-076,Stroberi,latih
+STR-077,Stroberi,uji
+STR-078,Stroberi,latih
+STR-079,Stroberi,latih
+STR-080,Stroberi,latih
+STR-081,Stroberi,latih
+STR-082,Stroberi,uji
+STR-083,Stroberi,latih
+STR-084,Stroberi,latih
+STR-085,Stroberi,latih
+STR-086,Stroberi,latih
+STR-087,Stroberi,latih
+STR-088,Stroberi,latih
+STR-089,Stroberi,uji
+STR-090,Stroberi,latih
+STR-091,Stroberi,latih
+STR-092,Stroberi,latih
+STR-093,Stroberi,uji
+STR-094,Stroberi,latih
+STR-095,Stroberi,latih
+STR-096,Stroberi,latih
+STR-097,Stroberi,latih
+STR-098,Stroberi,latih
+STR-099,Stroberi,latih
+STR-100,Stroberi,latih
+TER-001,Terong Belanda,latih
+TER-002,Terong Belanda,latih
+TER-003,Terong Belanda,uji
+TER-004,Terong Belanda,latih
+TER-005,Terong Belanda,uji
+TER-006,Terong Belanda,latih
+TER-007,Terong Belanda,latih
+TER-008,Terong Belanda,latih
+TER-009,Terong Belanda,uji
+TER-010,Terong Belanda,uji
+TER-011,Terong Belanda,latih
+TER-012,Terong Belanda,latih
+TER-013,Terong Belanda,latih
+TER-014,Terong Belanda,uji
+TER-015,Terong Belanda,uji
+TER-016,Terong Belanda,latih
+TER-017,Terong Belanda,latih
+TER-018,Terong Belanda,latih
+TER-019,Terong Belanda,latih
+TER-020,Terong Belanda,latih
+TER-021,Terong Belanda,uji
+TER-022,Terong Belanda,uji
+TER-023,Terong Belanda,uji
+TER-024,Terong Belanda,latih
+TER-025,Terong Belanda,latih
+TER-026,Terong Belanda,latih
+TER-027,Terong Belanda,uji
+TER-028,Terong Belanda,latih
+TER-029,Terong Belanda,latih
+TER-030,Terong Belanda,latih
+TER-031,Terong Belanda,latih
+TER-032,Terong Belanda,uji
+TER-033,Terong Belanda,latih
+TER-034,Terong Belanda,latih
+TER-035,Terong Belanda,latih
+TER-036,Terong Belanda,uji
+TER-037,Terong Belanda,latih
+TER-038,Terong Belanda,uji
+TER-039,Terong Belanda,latih
+TER-040,Terong Belanda,latih
+TER-041,Terong Belanda,latih
+TER-042,Terong Belanda,latih
+TER-043,Terong Belanda,latih
+TER-044,Terong Belanda,latih
+TER-045,Terong Belanda,latih
+TER-046,Terong Belanda,latih
+TER-047,Terong Belanda,latih
+TER-048,Terong Belanda,latih
+TER-049,Terong Belanda,latih
+TER-050,Terong Belanda,latih
+TER-051,Terong Belanda,latih
+TER-052,Terong Belanda,latih
+TER-053,Terong Belanda,latih
+TER-054,Terong Belanda,latih
+TER-055,Terong Belanda,uji
+TER-056,Terong Belanda,latih
+TER-057,Terong Belanda,latih
+TER-058,Terong Belanda,latih
+TER-059,Terong Belanda,latih
+TER-060,Terong Belanda,latih
+TER-061,Terong Belanda,latih
+TER-062,Terong Belanda,latih
+TER-063,Terong Belanda,latih
+TER-064,Terong Belanda,uji
+TER-065,Terong Belanda,latih
+TER-066,Terong Belanda,uji
+TER-067,Terong Belanda,latih
+TER-068,Terong Belanda,latih
+TER-069,Terong Belanda,latih
+TER-070,Terong Belanda,latih
+TER-071,Terong Belanda,latih
+TER-072,Terong Belanda,latih
+TER-073,Terong Belanda,uji
+TER-074,Terong Belanda,latih
+TER-075,Terong Belanda,latih
+TER-076,Terong Belanda,latih
+TER-077,Terong Belanda,latih
+TER-078,Terong Belanda,latih
+TER-079,Terong Belanda,latih
+TER-080,Terong Belanda,latih
+TER-081,Terong Belanda,latih
+TER-082,Terong Belanda,latih
+TER-083,Terong Belanda,latih
+TER-084,Terong Belanda,latih
+TER-085,Terong Belanda,uji
+TER-086,Terong Belanda,latih
+TER-087,Terong Belanda,latih
+TER-088,Terong Belanda,uji
+TER-089,Terong Belanda,latih
+TER-090,Terong Belanda,latih
+TER-091,Terong Belanda,latih
+TER-092,Terong Belanda,latih
+TER-093,Terong Belanda,latih
+TER-094,Terong Belanda,latih
+TER-095,Terong Belanda,latih
+TER-096,Terong Belanda,latih
+TER-097,Terong Belanda,uji
+TER-098,Terong Belanda,latih
+TER-099,Terong Belanda,latih
+TER-100,Terong Belanda,latih
+TOM-001,Tomat,latih
+TOM-002,Tomat,latih
+TOM-003,Tomat,uji
+TOM-004,Tomat,latih
+TOM-005,Tomat,latih
+TOM-006,Tomat,latih
+TOM-007,Tomat,latih
+TOM-008,Tomat,uji
+TOM-009,Tomat,latih
+TOM-010,Tomat,latih
+TOM-011,Tomat,latih
+TOM-012,Tomat,latih
+TOM-013,Tomat,latih
+TOM-014,Tomat,latih
+TOM-015,Tomat,latih
+TOM-016,Tomat,latih
+TOM-017,Tomat,latih
+TOM-018,Tomat,latih
+TOM-019,Tomat,uji
+TOM-020,Tomat,latih
+TOM-021,Tomat,latih
+TOM-022,Tomat,latih
+TOM-023,Tomat,latih
+TOM-024,Tomat,latih
+TOM-025,Tomat,latih
+TOM-026,Tomat,latih
+TOM-027,Tomat,uji
+TOM-028,Tomat,uji
+TOM-029,Tomat,latih
+TOM-030,Tomat,latih
+TOM-031,Tomat,uji
+TOM-032,Tomat,uji
+TOM-033,Tomat,uji
+TOM-034,Tomat,latih
+TOM-035,Tomat,latih
+TOM-036,Tomat,latih
+TOM-037,Tomat,latih
+TOM-038,Tomat,latih
+TOM-039,Tomat,latih
+TOM-040,Tomat,latih
+TOM-041,Tomat,latih
+TOM-042,Tomat,uji
+TOM-043,Tomat,latih
+TOM-044,Tomat,latih
+TOM-045,Tomat,uji
+TOM-046,Tomat,latih
+TOM-047,Tomat,uji
+TOM-048,Tomat,latih
+TOM-049,Tomat,uji
+TOM-050,Tomat,latih
+TOM-051,Tomat,latih
+TOM-052,Tomat,latih
+TOM-053,Tomat,latih
+TOM-054,Tomat,latih
+TOM-055,Tomat,latih
+TOM-056,Tomat,latih
+TOM-057,Tomat,uji
+TOM-058,Tomat,uji
+TOM-059,Tomat,latih
+TOM-060,Tomat,latih
+TOM-061,Tomat,uji
+TOM-062,Tomat,latih
+TOM-063,Tomat,latih
+TOM-064,Tomat,latih
+TOM-065,Tomat,latih
+TOM-066,Tomat,latih
+TOM-067,Tomat,latih
+TOM-068,Tomat,latih
+TOM-069,Tomat,latih
+TOM-070,Tomat,latih
+TOM-071,Tomat,latih
+TOM-072,Tomat,latih
+TOM-073,Tomat,latih
+TOM-074,Tomat,latih
+TOM-075,Tomat,uji
+TOM-076,Tomat,latih
+TOM-077,Tomat,latih
+TOM-078,Tomat,uji
+TOM-079,Tomat,latih
+TOM-080,Tomat,latih
+TOM-081,Tomat,latih
+TOM-082,Tomat,latih
+TOM-083,Tomat,uji
+TOM-084,Tomat,latih
+TOM-085,Tomat,latih
+TOM-086,Tomat,latih
+TOM-087,Tomat,latih
+TOM-088,Tomat,latih
+TOM-089,Tomat,latih
+TOM-090,Tomat,uji
+TOM-091,Tomat,latih
+TOM-092,Tomat,latih
+TOM-093,Tomat,latih
+TOM-094,Tomat,latih
+TOM-095,Tomat,uji
+TOM-096,Tomat,latih
+TOM-097,Tomat,latih
+TOM-098,Tomat,latih
+TOM-099,Tomat,latih
+TOM-100,Tomat,latih

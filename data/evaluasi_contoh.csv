@@ -1,0 +1,401 @@
+komentar,label_asli,label_prediksi,bobot,sumber_data
+Jus semangkanya enak banget,Positif,Positif,2.25,DUMMY
+Pelayanannya suka banget,Positif,Positif,1.8,DUMMY
+Pelayanannya kemahalan,Negatif,Negatif,-1.2,DUMMY
+Jus buah naganya nyaman,Positif,Positif,1.2,DUMMY
+Jus buah naganya manisnya pas,Positif,Positif,0.8,DUMMY
+Kasirnya kemahalan tapi kafenya puas,Positif,Positif,0.75,DUMMY
+Jus melonnya murah,Positif,Positif,1.0,DUMMY
+Jus semangkanya manisnya pas,Positif,Positif,0.8,DUMMY
+Pelayanannya pahit,Negatif,Negatif,-1.0,DUMMY
+Harganya bersih,Positif,Positif,1.0,DUMMY
+Pelayanannya mantap,Positif,Positif,1.3,DUMMY
+Harganya bikin kapok,Negatif,Positif,0.0,DUMMY
+Jus buah naganya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Tempatnya bau,Negatif,Negatif,-1.3,DUMMY
+Jus semangkanya nyaman,Positif,Positif,1.2,DUMMY
+Jus jambu merahnya bikin ketagihan,Positif,Positif,0.0,DUMMY
+Es jusnya recommended tapi tempatnya lama banget,Negatif,Negatif,-1.3,DUMMY
+Jus buah naganya juara,Positif,Positif,1.3,DUMMY
+Tempatnya enak banget,Positif,Positif,2.25,DUMMY
+Jus mangganya lambat tapi pelayanannya juara,Positif,Positif,0.75,DUMMY
+Harganya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Jus mangganya bikin ketagihan,Positif,Positif,0.0,DUMMY
+Jus mangganya bau,Negatif,Negatif,-1.3,DUMMY
+Kasirnya bau,Negatif,Negatif,-1.3,DUMMY
+Kasirnya hambar,Negatif,Negatif,-1.3,DUMMY
+Jus sirsaknya kotor tapi jus semangkanya bikin ketagihan,Positif,Negatif,-1.5,DUMMY
+Kafenya murah,Positif,Positif,1.0,DUMMY
+Jus buah naganya bikin kapok,Negatif,Positif,0.0,DUMMY
+Tempatnya cepat,Positif,Positif,1.0,DUMMY
+Jus buah naganya sempit tapi pelayanannya bikin nagih,Positif,Negatif,-0.9,DUMMY
+Kasirnya berisik tapi jus buah naganya murah,Positif,Positif,0.5,DUMMY
+Harganya cepat,Positif,Positif,1.0,DUMMY
+Jus semangkanya suka banget,Positif,Positif,1.8,DUMMY
+Jus sirsaknya males balik lagi,Negatif,Positif,0.0,DUMMY
+Kasirnya kemahalan tapi kafenya pas banget di lidah,Positif,Negatif,-1.2,DUMMY
+Kafenya tidak enak tapi kasirnya puas,Positif,Positif,0.75,DUMMY
+Jus mangganya puas,Positif,Positif,1.3,DUMMY
+Jus mangganya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Jus sirsaknya enak banget,Positif,Positif,2.25,DUMMY
+Harganya manisnya pas,Positif,Positif,0.8,DUMMY
+Harganya lama banget tapi jus alpukatnya bersih,Positif,Negatif,-0.3,DUMMY
+Jus semangkanya sempit,Negatif,Negatif,-0.9,DUMMY
+Harganya bikin kapok tapi jus sirsaknya manisnya pas,Positif,Positif,1.2,DUMMY
+Tempatnya bikin ketagihan,Positif,Positif,0.0,DUMMY
+Jus mangganya kotor,Negatif,Negatif,-1.5,DUMMY
+Es jusnya bikin kapok,Negatif,Positif,0.0,DUMMY
+Jus semangkanya segar banget tapi pelayanannya encer,Negatif,Positif,0.3,DUMMY
+Pelayanannya kecewa tapi jus sirsaknya segar banget,Positif,Positif,1.2,DUMMY
+Jus jambu merahnya mantap tapi kasirnya sempit,Negatif,Negatif,-0.05,DUMMY
+Jus semangkanya berisik,Negatif,Negatif,-1.0,DUMMY
+Kafenya lambat,Negatif,Negatif,-1.2,DUMMY
+Harganya berisik,Negatif,Negatif,-1.0,DUMMY
+Es jusnya bersih tapi jus melonnya males balik lagi,Negatif,Positif,1.0,DUMMY
+Es jusnya hambar,Negatif,Negatif,-1.3,DUMMY
+Tempatnya bersih tapi jus jambu merahnya jelek,Negatif,Negatif,-0.95,DUMMY
+Es jusnya jelek,Negatif,Negatif,-1.3,DUMMY
+Jus melonnya segar banget,Positif,Positif,1.8,DUMMY
+Kasirnya lama banget,Negatif,Negatif,-1.8,DUMMY
+Jus mangganya bersih tapi jus buah naganya bikin kapok,Negatif,Positif,1.0,DUMMY
+Jus buah naganya lambat tapi kasirnya mantap,Positif,Positif,0.75,DUMMY
+Es jusnya pas banget di lidah tapi jus buah naganya tidak enak,Negatif,Negatif,-1.8,DUMMY
+Jus mangganya pahit,Negatif,Negatif,-1.0,DUMMY
+Jus semangkanya murah,Positif,Positif,1.0,DUMMY
+Tempatnya kecewa,Negatif,Negatif,-1.5,DUMMY
+Harganya jelek,Negatif,Negatif,-1.3,DUMMY
+Pelayanannya segar banget,Positif,Positif,1.8,DUMMY
+Es jusnya manisnya pas,Positif,Positif,0.8,DUMMY
+Jus semangkanya encer,Negatif,Negatif,-1.0,DUMMY
+Jus melonnya cepat tapi jus alpukatnya encer,Negatif,Negatif,-0.5,DUMMY
+Jus melonnya juara,Positif,Positif,1.3,DUMMY
+Jus buah naganya enak banget,Positif,Positif,2.25,DUMMY
+Jus sirsaknya males balik lagi tapi tempatnya bikin nagih,Positif,Positif,0.0,DUMMY
+Pelayanannya murah tapi jus semangkanya males balik lagi,Negatif,Positif,1.0,DUMMY
+Tempatnya hambar,Negatif,Negatif,-1.3,DUMMY
+Jus semangkanya murah tapi kafenya bikin kapok,Negatif,Positif,1.0,DUMMY
+Jus mangganya kemahalan,Negatif,Negatif,-1.2,DUMMY
+Pelayanannya bikin ketagihan,Positif,Positif,0.0,DUMMY
+Jus mangganya enak banget tapi pelayanannya berisik,Negatif,Positif,0.75,DUMMY
+Jus alpukatnya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Kafenya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Pelayanannya bersih,Positif,Positif,1.0,DUMMY
+Tempatnya bikin kapok,Negatif,Positif,0.0,DUMMY
+Jus melonnya males balik lagi,Negatif,Positif,0.0,DUMMY
+Jus jambu merahnya bersih tapi pelayanannya kurang manis,Negatif,Positif,0.04,DUMMY
+Kasirnya bikin nagih,Positif,Positif,0.0,DUMMY
+Kasirnya manisnya pas,Positif,Positif,0.8,DUMMY
+Jus semangkanya jelek tapi es jusnya murah,Positif,Positif,0.2,DUMMY
+Jus mangganya bikin kapok,Negatif,Positif,0.0,DUMMY
+Kasirnya ramah,Positif,Positif,1.2,DUMMY
+Pelayanannya lambat,Negatif,Negatif,-1.2,DUMMY
+Jus sirsaknya lama banget,Negatif,Negatif,-1.8,DUMMY
+Jus alpukatnya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Jus alpukatnya lambat,Negatif,Negatif,-1.2,DUMMY
+Jus jambu merahnya lama banget,Negatif,Negatif,-1.8,DUMMY
+Kafenya manisnya pas,Positif,Positif,0.8,DUMMY
+Jus jambu merahnya ramah,Positif,Positif,1.2,DUMMY
+Jus semangkanya cepat,Positif,Positif,1.0,DUMMY
+Pelayanannya bikin kapok,Negatif,Positif,0.0,DUMMY
+Jus semangkanya mantap tapi jus buah naganya sempit,Negatif,Negatif,-0.05,DUMMY
+Kasirnya sempit tapi jus mangganya mantap,Positif,Positif,1.05,DUMMY
+Jus melonnya sempit,Negatif,Negatif,-0.9,DUMMY
+Tempatnya juara tapi jus alpukatnya nggak segar,Negatif,Negatif,-0.14,DUMMY
+Jus jambu merahnya kecewa tapi harganya enak banget,Positif,Positif,1.88,DUMMY
+Jus melonnya pahit,Negatif,Negatif,-1.0,DUMMY
+Jus semangkanya recommended,Positif,Positif,1.4,DUMMY
+Pelayanannya bau,Negatif,Negatif,-1.3,DUMMY
+Kasirnya sempit,Negatif,Negatif,-0.9,DUMMY
+Jus alpukatnya enak banget,Positif,Positif,2.25,DUMMY
+Es jusnya bersih,Positif,Positif,1.0,DUMMY
+Jus melonnya kotor,Negatif,Negatif,-1.5,DUMMY
+Kasirnya bikin kapok,Negatif,Positif,0.0,DUMMY
+Jus buah naganya bau,Negatif,Negatif,-1.3,DUMMY
+Jus melonnya encer,Negatif,Negatif,-1.0,DUMMY
+Es jusnya murah tapi kafenya tidak enak,Negatif,Negatif,-0.8,DUMMY
+Jus alpukatnya hambar tapi jus semangkanya mantap,Positif,Positif,0.65,DUMMY
+Jus jambu merahnya pahit,Negatif,Negatif,-1.0,DUMMY
+Kasirnya recommended,Positif,Positif,1.4,DUMMY
+Es jusnya kemahalan,Negatif,Negatif,-1.2,DUMMY
+Jus semangkanya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Jus sirsaknya juara,Positif,Positif,1.3,DUMMY
+Jus jambu merahnya suka banget,Positif,Positif,1.8,DUMMY
+Jus sirsaknya mantap,Positif,Positif,1.3,DUMMY
+Pelayanannya encer,Negatif,Negatif,-1.0,DUMMY
+Kafenya mantap,Positif,Positif,1.3,DUMMY
+Es jusnya tidak enak,Negatif,Negatif,-1.2,DUMMY
+Es jusnya murah tapi tempatnya bau,Negatif,Negatif,-0.95,DUMMY
+Kasirnya kemahalan,Negatif,Negatif,-1.2,DUMMY
+Es jusnya bikin nagih tapi pelayanannya males balik lagi,Negatif,Positif,0.0,DUMMY
+Harganya nyaman tapi es jusnya lama banget,Negatif,Negatif,-1.5,DUMMY
+Jus buah naganya kemahalan tapi tempatnya segar banget,Positif,Positif,1.5,DUMMY
+Tempatnya mantap,Positif,Positif,1.3,DUMMY
+Jus mangganya nyaman,Positif,Positif,1.2,DUMMY
+Jus melonnya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Jus jambu merahnya encer tapi jus alpukatnya mantap,Positif,Positif,0.95,DUMMY
+Jus sirsaknya bau,Negatif,Negatif,-1.3,DUMMY
+Jus semangkanya bikin kapok,Negatif,Positif,0.0,DUMMY
+Jus jambu merahnya manisnya pas,Positif,Positif,0.8,DUMMY
+Jus jambu merahnya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Jus mangganya encer,Negatif,Negatif,-1.0,DUMMY
+Jus mangganya segar banget,Positif,Positif,1.8,DUMMY
+Jus buah naganya encer tapi jus melonnya mantap,Positif,Positif,0.95,DUMMY
+Jus semangkanya males balik lagi,Negatif,Positif,0.0,DUMMY
+Jus sirsaknya cepat,Positif,Positif,1.0,DUMMY
+Es jusnya berisik tapi jus sirsaknya bikin ketagihan,Positif,Negatif,-1.0,DUMMY
+Tempatnya hambar tapi jus buah naganya ramah,Positif,Positif,0.5,DUMMY
+Tempatnya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Es jusnya nggak segar,Negatif,Negatif,-0.96,DUMMY
+Kafenya puas,Positif,Positif,1.3,DUMMY
+Jus jambu merahnya jelek tapi kafenya mantap,Positif,Positif,0.65,DUMMY
+Harganya suka banget,Positif,Positif,1.8,DUMMY
+Kafenya kemahalan tapi jus jambu merahnya cepat,Positif,Positif,0.3,DUMMY
+Kasirnya murah,Positif,Positif,1.0,DUMMY
+Jus jambu merahnya juara,Positif,Positif,1.3,DUMMY
+Jus sirsaknya segar banget,Positif,Positif,1.8,DUMMY
+Kasirnya bersih tapi jus buah naganya lama banget,Negatif,Negatif,-1.7,DUMMY
+Es jusnya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Jus semangkanya bau,Negatif,Negatif,-1.3,DUMMY
+Es jusnya cepat,Positif,Positif,1.0,DUMMY
+Jus melonnya bikin kapok,Negatif,Positif,0.0,DUMMY
+Jus buah naganya pahit,Negatif,Negatif,-1.0,DUMMY
+Jus mangganya males balik lagi,Negatif,Positif,0.0,DUMMY
+Tempatnya berisik tapi pelayanannya pas banget di lidah,Positif,Negatif,-1.0,DUMMY
+Kafenya nggak segar tapi tempatnya murah,Positif,Positif,0.54,DUMMY
+Kafenya bersih,Positif,Positif,1.0,DUMMY
+Es jusnya tidak enak tapi jus buah naganya bikin nagih,Positif,Negatif,-1.2,DUMMY
+Jus alpukatnya cepat,Positif,Positif,1.0,DUMMY
+Kafenya lama banget,Negatif,Negatif,-1.8,DUMMY
+Jus melonnya puas,Positif,Positif,1.3,DUMMY
+Jus buah naganya hambar,Negatif,Negatif,-1.3,DUMMY
+Jus buah naganya bikin ketagihan,Positif,Positif,0.0,DUMMY
+Tempatnya lama banget tapi jus alpukatnya puas,Positif,Positif,0.15,DUMMY
+Pelayanannya kurang manis tapi tempatnya nyaman,Positif,Positif,1.16,DUMMY
+Jus melonnya murah tapi jus semangkanya males balik lagi,Negatif,Positif,1.0,DUMMY
+Jus mangganya kurang manis tapi es jusnya mantap,Positif,Positif,1.31,DUMMY
+Jus alpukatnya kecewa,Negatif,Negatif,-1.5,DUMMY
+Jus alpukatnya recommended,Positif,Positif,1.4,DUMMY
+Kasirnya males balik lagi tapi jus jambu merahnya bikin nagih,Positif,Positif,0.0,DUMMY
+Jus mangganya lama banget,Negatif,Negatif,-1.8,DUMMY
+Harganya puas,Positif,Positif,1.3,DUMMY
+Kafenya segar banget,Positif,Positif,1.8,DUMMY
+Jus jambu merahnya cepat,Positif,Positif,1.0,DUMMY
+Kasirnya bikin kapok tapi jus melonnya nyaman,Positif,Positif,1.8,DUMMY
+Jus alpukatnya bau,Negatif,Negatif,-1.3,DUMMY
+Jus melonnya bikin nagih,Positif,Positif,0.0,DUMMY
+Jus melonnya kemahalan tapi tempatnya juara,Positif,Positif,0.75,DUMMY
+Jus sirsaknya tidak enak,Negatif,Negatif,-1.2,DUMMY
+Jus melonnya bersih,Positif,Positif,1.0,DUMMY
+Jus melonnya recommended,Positif,Positif,1.4,DUMMY
+Harganya ramah,Positif,Positif,1.2,DUMMY
+Tempatnya kemahalan tapi jus buah naganya murah,Positif,Positif,0.3,DUMMY
+Jus alpukatnya hambar tapi jus melonnya murah,Positif,Positif,0.2,DUMMY
+Es jusnya pahit,Negatif,Negatif,-1.0,DUMMY
+Jus semangkanya encer tapi jus sirsaknya ramah,Positif,Positif,0.8,DUMMY
+Pelayanannya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Kasirnya puas,Positif,Positif,1.3,DUMMY
+Jus sirsaknya ramah tapi tempatnya kotor,Negatif,Negatif,-1.05,DUMMY
+Kafenya bikin nagih,Positif,Positif,0.0,DUMMY
+Tempatnya juara,Positif,Positif,1.3,DUMMY
+Tempatnya bikin nagih,Positif,Positif,0.0,DUMMY
+Kasirnya enak banget,Positif,Positif,2.25,DUMMY
+Es jusnya juara,Positif,Positif,1.3,DUMMY
+Jus jambu merahnya lama banget tapi jus alpukatnya segar banget,Positif,Positif,0.9,DUMMY
+Jus mangganya pas banget di lidah tapi tempatnya tidak enak,Negatif,Negatif,-1.8,DUMMY
+Jus buah naganya murah tapi tempatnya bikin kapok,Negatif,Positif,1.0,DUMMY
+Kafenya recommended,Positif,Positif,1.4,DUMMY
+Kafenya nyaman tapi jus semangkanya lambat,Negatif,Negatif,-0.6,DUMMY
+Tempatnya mantap tapi jus sirsaknya males balik lagi,Negatif,Positif,1.3,DUMMY
+Kafenya nyaman,Positif,Positif,1.2,DUMMY
+Jus sirsaknya nggak segar,Negatif,Negatif,-0.96,DUMMY
+Jus mangganya lama banget tapi jus jambu merahnya bersih,Positif,Negatif,-0.3,DUMMY
+Jus semangkanya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Kasirnya kotor,Negatif,Negatif,-1.5,DUMMY
+Jus jambu merahnya cepat tapi kafenya sempit,Negatif,Negatif,-0.35,DUMMY
+Harganya juara,Positif,Positif,1.3,DUMMY
+Jus jambu merahnya nyaman,Positif,Positif,1.2,DUMMY
+Jus mangganya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Jus mangganya bikin kapok tapi jus alpukatnya nyaman,Positif,Positif,1.8,DUMMY
+Jus sirsaknya recommended tapi jus alpukatnya berisik,Negatif,Negatif,-0.1,DUMMY
+Jus sirsaknya pahit tapi pelayanannya pas banget di lidah,Positif,Negatif,-1.0,DUMMY
+Kafenya hambar,Negatif,Negatif,-1.3,DUMMY
+Jus sirsaknya murah,Positif,Positif,1.0,DUMMY
+Jus jambu merahnya bersih,Positif,Positif,1.0,DUMMY
+Jus sirsaknya suka banget tapi jus buah naganya pahit,Negatif,Positif,0.3,DUMMY
+Pelayanannya mantap tapi tempatnya nggak segar,Negatif,Negatif,-0.14,DUMMY
+Jus buah naganya murah,Positif,Positif,1.0,DUMMY
+Jus jambu merahnya recommended,Positif,Positif,1.4,DUMMY
+Jus buah naganya segar banget,Positif,Positif,1.8,DUMMY
+Jus semangkanya kotor,Negatif,Negatif,-1.5,DUMMY
+Jus buah naganya suka banget tapi harganya kurang manis,Negatif,Positif,0.84,DUMMY
+Jus semangkanya enak banget tapi jus alpukatnya kecewa,Negatif,Positif,0.0,DUMMY
+Jus buah naganya jelek,Negatif,Negatif,-1.3,DUMMY
+Jus semangkanya jelek,Negatif,Negatif,-1.3,DUMMY
+Tempatnya recommended,Positif,Positif,1.4,DUMMY
+Jus alpukatnya juara,Positif,Positif,1.3,DUMMY
+Kasirnya mantap,Positif,Positif,1.3,DUMMY
+Harganya pahit tapi es jusnya nyaman,Positif,Positif,0.8,DUMMY
+Jus semangkanya jelek tapi jus buah naganya manisnya pas,Positif,Negatif,-0.1,DUMMY
+Es jusnya enak banget,Positif,Positif,2.25,DUMMY
+Kafenya kemahalan tapi kasirnya juara,Positif,Positif,0.75,DUMMY
+Harganya recommended,Positif,Positif,1.4,DUMMY
+Jus jambu merahnya berisik,Negatif,Negatif,-1.0,DUMMY
+Kasirnya kurang manis,Negatif,Negatif,-0.64,DUMMY
+Jus semangkanya hambar,Negatif,Negatif,-1.3,DUMMY
+Tempatnya berisik,Negatif,Negatif,-1.0,DUMMY
+Harganya pahit,Negatif,Negatif,-1.0,DUMMY
+Jus buah naganya mantap tapi jus mangganya kecewa,Negatif,Negatif,-0.95,DUMMY
+Jus sirsaknya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Jus mangganya lambat,Negatif,Negatif,-1.2,DUMMY
+Pelayanannya enak banget tapi jus mangganya males balik lagi,Negatif,Positif,2.25,DUMMY
+Kasirnya hambar tapi jus semangkanya mantap,Positif,Positif,0.65,DUMMY
+Es jusnya kotor tapi kafenya bersih,Positif,Positif,0.0,DUMMY
+Tempatnya ramah,Positif,Positif,1.2,DUMMY
+Es jusnya lama banget,Negatif,Negatif,-1.8,DUMMY
+Harganya ramah tapi jus jambu merahnya lambat,Negatif,Negatif,-0.6,DUMMY
+Jus jambu merahnya kecewa tapi tempatnya cepat,Positif,Positif,0.0,DUMMY
+Tempatnya sempit,Negatif,Negatif,-0.9,DUMMY
+Jus melonnya jelek,Negatif,Negatif,-1.3,DUMMY
+Jus semangkanya ramah,Positif,Positif,1.2,DUMMY
+Jus jambu merahnya lambat,Negatif,Negatif,-1.2,DUMMY
+Jus semangkanya kotor tapi jus jambu merahnya enak banget,Positif,Positif,1.88,DUMMY
+Jus mangganya tidak enak,Negatif,Negatif,-1.2,DUMMY
+Harganya jelek tapi jus semangkanya juara,Positif,Positif,0.65,DUMMY
+Tempatnya ramah tapi jus melonnya kemahalan,Negatif,Negatif,-0.6,DUMMY
+Pelayanannya recommended,Positif,Positif,1.4,DUMMY
+Harganya lambat,Negatif,Negatif,-1.2,DUMMY
+Es jusnya berisik,Negatif,Negatif,-1.0,DUMMY
+Harganya bikin nagih,Positif,Positif,0.0,DUMMY
+Jus sirsaknya kecewa,Negatif,Negatif,-1.5,DUMMY
+Harganya kemahalan,Negatif,Negatif,-1.2,DUMMY
+Jus alpukatnya suka banget,Positif,Positif,1.8,DUMMY
+Pelayanannya nyaman,Positif,Positif,1.2,DUMMY
+Jus jambu merahnya kecewa,Negatif,Negatif,-1.5,DUMMY
+Jus mangganya kecewa,Negatif,Negatif,-1.5,DUMMY
+Kafenya puas tapi jus jambu merahnya sempit,Negatif,Negatif,-0.05,DUMMY
+Jus alpukatnya jelek tapi kasirnya pas banget di lidah,Positif,Negatif,-1.3,DUMMY
+Jus buah naganya berisik,Negatif,Negatif,-1.0,DUMMY
+Kasirnya kecewa,Negatif,Negatif,-1.5,DUMMY
+Pelayanannya males balik lagi,Negatif,Positif,0.0,DUMMY
+Es jusnya hambar tapi tempatnya puas,Positif,Positif,0.65,DUMMY
+Es jusnya mantap tapi tempatnya kurang manis,Negatif,Positif,0.34,DUMMY
+Jus mangganya sempit,Negatif,Negatif,-0.9,DUMMY
+Jus jambu merahnya nggak segar,Negatif,Negatif,-0.96,DUMMY
+Es jusnya encer tapi jus sirsaknya puas,Positif,Positif,0.95,DUMMY
+Jus melonnya bikin ketagihan,Positif,Positif,0.0,DUMMY
+Pelayanannya hambar,Negatif,Negatif,-1.3,DUMMY
+Jus buah naganya nyaman tapi es jusnya bau,Negatif,Negatif,-0.75,DUMMY
+Jus buah naganya mantap tapi harganya pahit,Negatif,Negatif,-0.2,DUMMY
+Jus alpukatnya manisnya pas,Positif,Positif,0.8,DUMMY
+Jus semangkanya kecewa,Negatif,Negatif,-1.5,DUMMY
+Jus mangganya jelek,Negatif,Negatif,-1.3,DUMMY
+Kafenya puas tapi es jusnya kotor,Negatif,Negatif,-0.95,DUMMY
+Jus melonnya enak banget,Positif,Positif,2.25,DUMMY
+Kasirnya recommended tapi kafenya bikin kapok,Negatif,Positif,1.4,DUMMY
+Jus mangganya bersih,Positif,Positif,1.0,DUMMY
+Jus jambu merahnya enak banget,Positif,Positif,2.25,DUMMY
+Jus jambu merahnya hambar,Negatif,Negatif,-1.3,DUMMY
+Jus alpukatnya manisnya pas tapi jus buah naganya jelek,Negatif,Negatif,-1.15,DUMMY
+Jus alpukatnya encer,Negatif,Negatif,-1.0,DUMMY
+Jus alpukatnya bersih,Positif,Positif,1.0,DUMMY
+Jus mangganya ramah,Positif,Positif,1.2,DUMMY
+Harganya males balik lagi tapi jus sirsaknya cepat,Positif,Positif,1.5,DUMMY
+Jus melonnya pahit tapi tempatnya manisnya pas,Positif,Positif,0.2,DUMMY
+Kafenya bikin kapok tapi jus mangganya manisnya pas,Positif,Positif,1.2,DUMMY
+Es jusnya nggak segar tapi jus mangganya segar banget,Positif,Positif,1.74,DUMMY
+Jus jambu merahnya bikin nagih,Positif,Positif,0.0,DUMMY
+Pelayanannya tidak enak tapi jus semangkanya nyaman,Positif,Positif,0.6,DUMMY
+Jus semangkanya kemahalan tapi pelayanannya suka banget,Positif,Positif,1.5,DUMMY
+Tempatnya nyaman,Positif,Positif,1.2,DUMMY
+Jus melonnya lambat,Negatif,Negatif,-1.2,DUMMY
+Jus sirsaknya berisik,Negatif,Negatif,-1.0,DUMMY
+Jus melonnya manisnya pas,Positif,Positif,0.8,DUMMY
+Kasirnya bersih,Positif,Positif,1.0,DUMMY
+Jus jambu merahnya puas,Positif,Positif,1.3,DUMMY
+Kasirnya nyaman tapi es jusnya pahit,Negatif,Negatif,-0.3,DUMMY
+Tempatnya lambat,Negatif,Negatif,-1.2,DUMMY
+Es jusnya bikin nagih,Positif,Positif,0.0,DUMMY
+Jus buah naganya ramah,Positif,Positif,1.2,DUMMY
+Jus buah naganya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Jus sirsaknya tidak enak tapi jus alpukatnya bikin ketagihan,Positif,Negatif,-1.2,DUMMY
+Jus mangganya sempit tapi jus alpukatnya bersih,Positif,Positif,0.6,DUMMY
+Kafenya suka banget,Positif,Positif,1.8,DUMMY
+Pelayanannya jelek,Negatif,Negatif,-1.3,DUMMY
+Jus jambu merahnya tidak enak,Negatif,Negatif,-1.2,DUMMY
+Jus alpukatnya bikin nagih,Positif,Positif,0.0,DUMMY
+Kasirnya jelek tapi es jusnya cepat,Positif,Positif,0.2,DUMMY
+Pelayanannya tidak enak tapi jus melonnya pas banget di lidah,Positif,Negatif,-1.2,DUMMY
+Jus semangkanya bersih,Positif,Positif,1.0,DUMMY
+Pelayanannya berisik,Negatif,Negatif,-1.0,DUMMY
+Jus semangkanya bikin nagih tapi jus sirsaknya kurang manis,Negatif,Negatif,-0.96,DUMMY
+Kafenya kecewa tapi pelayanannya bikin ketagihan,Positif,Negatif,-1.5,DUMMY
+Kafenya sempit,Negatif,Negatif,-0.9,DUMMY
+Kasirnya juara,Positif,Positif,1.3,DUMMY
+Jus buah naganya lama banget,Negatif,Negatif,-1.8,DUMMY
+Jus alpukatnya juara tapi jus mangganya kecewa,Negatif,Negatif,-0.95,DUMMY
+Jus sirsaknya hambar,Negatif,Negatif,-1.3,DUMMY
+Jus melonnya bau,Negatif,Negatif,-1.3,DUMMY
+Jus mangganya murah,Positif,Positif,1.0,DUMMY
+Jus semangkanya suka banget tapi tempatnya kecewa,Negatif,Negatif,-0.45,DUMMY
+Es jusnya mantap,Positif,Positif,1.3,DUMMY
+Tempatnya kotor,Negatif,Negatif,-1.5,DUMMY
+Tempatnya enak banget tapi kafenya bikin kapok,Negatif,Positif,2.25,DUMMY
+Jus semangkanya segar banget,Positif,Positif,1.8,DUMMY
+Jus sirsaknya bikin ketagihan,Positif,Positif,0.0,DUMMY
+Tempatnya nggak segar,Negatif,Negatif,-0.96,DUMMY
+Kasirnya pahit,Negatif,Negatif,-1.0,DUMMY
+Jus mangganya bikin ketagihan tapi pelayanannya bikin kapok,Negatif,Positif,0.0,DUMMY
+Jus semangkanya bersih tapi jus alpukatnya nggak segar,Negatif,Negatif,-0.44,DUMMY
+Jus sirsaknya jelek,Negatif,Negatif,-1.3,DUMMY
+Jus jambu merahnya jelek,Negatif,Negatif,-1.3,DUMMY
+Jus buah naganya cepat tapi jus sirsaknya males balik lagi,Negatif,Positif,1.0,DUMMY
+Jus sirsaknya juara tapi jus melonnya bau,Negatif,Negatif,-0.65,DUMMY
+Pelayanannya enak banget,Positif,Positif,2.25,DUMMY
+Jus mangganya enak banget,Positif,Positif,2.25,DUMMY
+Pelayanannya puas tapi harganya kecewa,Negatif,Negatif,-0.95,DUMMY
+Kasirnya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Jus semangkanya pahit,Negatif,Negatif,-1.0,DUMMY
+Jus buah naganya segar banget tapi jus mangganya jelek,Negatif,Negatif,-0.15,DUMMY
+Jus semangkanya cepat tapi jus jambu merahnya bau,Negatif,Negatif,-0.95,DUMMY
+Jus alpukatnya segar banget,Positif,Positif,1.8,DUMMY
+Pelayanannya kotor,Negatif,Negatif,-1.5,DUMMY
+Jus buah naganya puas tapi harganya kurang manis,Negatif,Positif,0.34,DUMMY
+Jus buah naganya kotor,Negatif,Negatif,-1.5,DUMMY
+Tempatnya murah,Positif,Positif,1.0,DUMMY
+Jus semangkanya segar banget tapi tempatnya sempit,Negatif,Positif,0.45,DUMMY
+Jus sirsaknya kecewa tapi es jusnya mantap,Positif,Positif,0.45,DUMMY
+Jus jambu merahnya kemahalan,Negatif,Negatif,-1.2,DUMMY
+Jus alpukatnya mantap,Positif,Positif,1.3,DUMMY
+Tempatnya kemahalan tapi harganya juara,Positif,Positif,0.75,DUMMY
+Harganya pas banget di lidah,Positif,Positif,0.0,DUMMY
+Harganya recommended tapi jus sirsaknya sempit,Negatif,Positif,0.05,DUMMY
+Es jusnya murah tapi jus alpukatnya bau,Negatif,Negatif,-0.95,DUMMY
+Jus melonnya tidak enak,Negatif,Negatif,-1.2,DUMMY
+Kafenya bikin ketagihan,Positif,Positif,0.0,DUMMY
+Jus melonnya nyaman tapi es jusnya bau,Negatif,Negatif,-0.75,DUMMY
+Tempatnya mantap tapi pelayanannya jelek,Negatif,Negatif,-0.65,DUMMY
+Jus melonnya cepat tapi jus buah naganya males balik lagi,Negatif,Positif,1.0,DUMMY
+Jus melonnya ramah,Positif,Positif,1.2,DUMMY
+Jus jambu merahnya suka banget tapi jus sirsaknya tidak enak,Negatif,Positif,-0.0,DUMMY
+Jus semangkanya enak banget tapi jus melonnya bikin kapok,Negatif,Positif,2.25,DUMMY
+Jus semangkanya segar banget tapi jus sirsaknya jelek,Negatif,Negatif,-0.15,DUMMY
+Jus buah naganya hambar tapi jus mangganya enak banget,Positif,Positif,2.08,DUMMY
+Es jusnya sempit tapi jus mangganya juara,Positif,Positif,1.05,DUMMY
+Kasirnya males balik lagi,Negatif,Positif,0.0,DUMMY
+Tempatnya suka banget,Positif,Positif,1.8,DUMMY
+Es jusnya pahit tapi jus melonnya enak banget,Positif,Positif,2.38,DUMMY
+Jus sirsaknya hambar tapi jus alpukatnya enak banget,Positif,Positif,2.08,DUMMY
+Kasirnya bau tapi es jusnya pas banget di lidah,Positif,Negatif,-1.3,DUMMY
+Jus mangganya juara tapi tempatnya jelek,Negatif,Negatif,-0.65,DUMMY
+Jus alpukatnya encer tapi tempatnya enak banget,Positif,Positif,2.38,DUMMY
+Jus melonnya suka banget,Positif,Positif,1.8,DUMMY
+Jus semangkanya kotor tapi tempatnya puas,Positif,Positif,0.45,DUMMY
+Kasirnya pas banget di lidah tapi jus mangganya lambat,Negatif,Negatif,-1.8,DUMMY
+Jus jambu merahnya manisnya pas tapi tempatnya lambat,Negatif,Negatif,-1.0,DUMMY
+Jus alpukatnya encer tapi kasirnya bikin ketagihan,Positif,Negatif,-1.0,DUMMY
+Jus mangganya bersih tapi jus jambu merahnya jelek,Negatif,Negatif,-0.95,DUMMY
+Es jusnya murah,Positif,Positif,1.0,DUMMY
+Jus alpukatnya males balik lagi tapi tempatnya juara,Positif,Positif,1.95,DUMMY
+Tempatnya males balik lagi,Negatif,Positif,0.0,DUMMY
+Jus melonnya pahit tapi jus jambu merahnya murah,Positif,Positif,0.5,DUMMY
+Pelayanannya ramah tapi jus melonnya encer,Negatif,Negatif,-0.3,DUMMY

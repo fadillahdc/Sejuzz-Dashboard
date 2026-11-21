@@ -1,0 +1,15 @@
+kolom,tipe,satuan,deskripsi,wajib_unggah
+sample_id,teks,-,ID unik satu sampel buah (kode jenis + nomor urut). Contoh: ALP-001,Disarankan
+kode_buah,teks,-,Kode 3 huruf jenis buah (ALP = Alpukat). Hanya ada di dataset bawaan,Tidak
+jenis_buah,teks,-,Nama jenis buah atau sayuran,Wajib
+kelompok,teks,-,"Buah atau Sayuran. Bila tidak ada pada unggahan, diisi Buah",Tidak
+berat_buah_utuh_g,angka,gram,Berat buah utuh sebelum dikupas atau dibersihkan,Wajib
+berat_bagian_layak_g,angka,gram,Berat bagian yang dipakai untuk jus setelah dikupas dan dibuang bijinya,Wajib
+berat_sisa_g,angka,gram,"Berat bagian yang dibuang (kulit, biji, dan sejenisnya)",Disarankan
+yield_pct,pecahan 0-1,-,Berat bagian layak dibagi berat buah utuh. Dihitung ulang oleh dasbor saat data dimuat,Dihitung
+selisih_g,angka,gram,Berat utuh dikurangi bagian layak dikurangi sisa. Mendekati 0 bila timbangan konsisten,Dihitung
+selisih_pct,pecahan,-,selisih_g dibagi berat buah utuh,Tidak
+flag_outlier_yield,0/1,-,"1 bila yield di luar batas 1,5 x IQR pada jenis yang sama",Tidak
+flag_outlier_berat,0/1,-,"1 bila berat buah utuh di luar batas 1,5 x IQR pada jenis yang sama",Tidak
+flag_duplikat_nilai,0/1,-,"1 bila kombinasi jenis, berat utuh, berat layak, dan berat sisa kembar dengan baris lain",Tidak
+sumber_data,teks,-,SIMULASI atau NYATA. Menentukan peringatan di dasbor,Disarankan
